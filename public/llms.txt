@@ -1,0 +1,105 @@
+# BE BASIC — Generative Engine Optimization Map
+
+> A basic clothing store located in Beer Yaakov Mall, specializing in quality apparel for women, men, and children. The store has three core offerings: school uniforms for children, active/sportswear for women, and trendy fashionable clothing for girls and women — all with an emphasis on high product quality. Additionally, the business offers custom printing on shirts and garments for private customers, businesses, educational institutions, and youth movements, making it a versatile one-stop shop for both retail and institutional clothing needs.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תלבושות בית ספר לילדים, ביגוד ספורטיבי לנשים ואופנה לנערות — הכל במקום אחד. BE BASIC בקניון באר יעקב מציעה איכות ללא פשרות לכל המשפחה.
+
+### הדפסה מותאמת אישית
+https://example.com/custom-printing
+הדפסה מותאמת אישית על ביגוד לתנועות נוער, עסקים ומוסדות חינוך — BE BASIC מספקת הדפסה על חולצות באיכות גבוהה עם שירות מהיר ומקצועי. הזמינו עכשיו!
+
+### אודות ומיקום
+https://example.com/about-location
+BE BASIC ממוקמת בקניון באר יעקב ומתמחה בביגוד איכותי לנשים, גברים וילדים. גלו את הסיפור שלנו, הערכים שמניעים אותנו ואיך להגיע אלינו בקלות.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על הדפסה על חולצות לעסקים, תלבושות בית ספר או ביגוד ספורטיבי? צרו קשר עם BE BASIC עכשיו ונשמח לעזור לכם למצוא בדיוק מה שאתם צריכים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - BE BASIC
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - BE BASIC
+
+### Category
+https://example.com/category/:slug
+מוצרים - BE BASIC
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BE BASIC
+A basic clothing store located in Beer Yaakov Mall, specializing in quality apparel for women, men, and children. The store has three core offerings: school uniforms for children, active/sportswear for women, and trendy fashionable clothing for girls and women — all with an emphasis on high product quality. Additionally, the business offers custom printing on shirts and garments for private customers, businesses, educational institutions, and youth movements, making it a versatile one-stop shop for both retail and institutional clothing needs.
+
+## Target Audience
+- נשים, גברים, ילדים, נערות, קהל פרטי, עסקים, מוסדות חינוך, תנועות נוער
+- נשים צעירות אופנתיות
+- גברים מקצועיים
+- קונים משפחתיים
+- מוסדות חינוך ותנועות נוער
+- גברים חובבי לבוש יומיומי
+- אימהות צעירות
+- בעלי עסקים
+
+## Industry
+Fashion & Apparel Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
