@@ -2210,16 +2210,16 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   letter-spacing: -0.02em;
 }
 
-/* ── H3 Subheading ── */
 .index-hero-section .index-hero-h3 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.875rem;
-  font-weight: 600;
+  font-size: 0.9rem;
+  font-weight: 700;
   line-height: 1.6;
-  color: var(--primary);
+  color: var(--accent);
   margin: 0;
-  border-inline-start: 3px solid var(--accent);
-  padding-inline-start: 10px;
+  border-inline-start: 3px solid var(--primary);
+  padding-inline-start: 12px;
+  letter-spacing: 0.04em;
 }
 
 /* ── Body Paragraph ── */
