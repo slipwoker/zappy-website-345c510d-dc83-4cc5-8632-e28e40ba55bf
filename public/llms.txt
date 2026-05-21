@@ -72,7 +72,31 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 3**
+
+### בייסיק וי אברסייז 
+https://example.com/product/byysyk-vy-abrsyyz-nj31vy
+- Price: 45.00 USD (sale, was 59.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- Description: חולצת בייסיק וי בגזר אברסייז מבד 100% כותנה מגיה במבחר צבעים מהממים לבחירה
+- Image: https://example.com/assets/product-1779354535506-x421w.webp
+
+### חולצת ניקי מבד אינטרלוק 
+https://example.com/product/chvltst-nyky-mbd-ayntrlvk-f86msn
+- Price: 45.00 USD (sale, was 59.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- Description: חולצת בייסיק איכותי מבד נעים במיוחד , צווארון ניקי מגיע במבחר צבעים לבחירה .
+- Image: https://example.com/assets/product-1779351236473-9jkas.webp
+
+### חולצת קרופ סרט בבטן
+https://example.com/product/chvltst-krvp-srt-bbtn-zq83g8
+- Price: 45.00 USD (sale, was 59.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- Description: חולצת קרופ רוגבי סרט בבטן מגיע במבחר צבעים מהממים ובגזרה מושלמת !
+- Image: https://example.com/assets/product-1779181524594-3r8cy.webp
 
 ---
 
