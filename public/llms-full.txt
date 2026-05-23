@@ -4639,9 +4639,33 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 
 ## Product Catalog
 
+### טריקו וי מנג'ט בשרוול 
+URL: https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4
+Price: 45.00 USD (sale, was 55.00 USD)
+Availability: In stock
+SKU: 751723
+
+---
+
+### וי בייסיק קלאסי
+URL: https://example.com/product/vy-byysyk-klasy-dnwaui
+Price: 45.00 USD (sale, was 55.00 USD)
+Availability: In stock
+SKU: 750747
+
+---
+
+### חולצת וי גזרת בטן
+URL: https://example.com/product/chvltst-vy-gzrt-btn-4tmy1q
+Price: 45.00 USD (sale, was 55.00 USD)
+Availability: In stock
+SKU: 751262
+
+---
+
 ### בייסיק וי אברסייז 
-URL: https://example.com/product/byysyk-vy-abrsyyz-nj31vy
-Price: 45.00 USD (sale, was 59.00 USD)
+URL: https://example.com/product/byysyk-vy-abrsyyz-z6zw0l
+Price: 50.00 USD (sale, was 65.00 USD)
 Availability: In stock
 
 ---

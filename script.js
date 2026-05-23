@@ -5186,6 +5186,38 @@ function handleDynamicAnnouncementBar(settings) {
 
 // Load featured products on home page (uses public storefront API)
 // Only shows products marked as "featured" - no fallback to all products
+
+function refreshDynamicProductGridsAfterDiscount() {
+  if (typeof loadFeaturedProducts === 'function' && document.getElementById('zappy-featured-products')) {
+    try { loadFeaturedProducts(); } catch (e) {}
+  }
+  if (typeof applyCategoryFiltersAndRender === 'function' && typeof catProductsCache !== 'undefined' && catProductsCache && catProductsCache.length > 0 && document.getElementById('category-products')) {
+    try {
+      var gridEl = document.getElementById('category-products');
+      var symEl = gridEl && gridEl.querySelector('.price');
+      var symMatch = symEl && (symEl.textContent || '').match(/[₪$€£]/);
+      var tStub = { currency: symMatch ? symMatch[0] : '₪', addToCart: 'Add to Cart', viewDetails: 'View Details', startingAt: 'Starting at' };
+      applyCategoryFiltersAndRender(null, tStub);
+    } catch (e) {}
+  } else if (typeof loadCategoryPage === 'function' && document.getElementById('category-page')) {
+    try { loadCategoryPage(); } catch (e) {}
+  }
+  if (typeof loadRelatedProducts === 'function' && window.currentProduct && document.getElementById('related-products-grid')) {
+    try {
+      var priceEl = document.querySelector('#product-price-display, #product-detail .price');
+      var symMatch2 = priceEl && (priceEl.textContent || '').match(/[₪$€£]/);
+      var tStub2 = { currency: symMatch2 ? symMatch2[0] : '₪', addToCart: 'Add to Cart', viewDetails: 'View Details', startingAt: 'Starting at' };
+      loadRelatedProducts(window.currentProduct, tStub2);
+    } catch (e) {}
+  }
+}
+function scheduleDynamicProductGridsDiscountRefresh() {
+  [0, 250, 750, 2000].forEach(function(delayMs) {
+    setTimeout(refreshDynamicProductGridsAfterDiscount, delayMs);
+  });
+}
+window.__zappyRefreshDynamicProductGridsAfterDiscount = refreshDynamicProductGridsAfterDiscount;
+window.__zappyScheduleDynamicProductGridsDiscountRefresh = scheduleDynamicProductGridsDiscountRefresh;
 async function loadFeaturedProducts() {
   const grid = document.getElementById('zappy-featured-products');
   if (!grid) return;
@@ -6040,6 +6072,22 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Load product detail page
+
+async function syncProductDetailCustomerDiscount() {
+  if (!document.getElementById('product-detail') || !window.currentProduct) return;
+  if (window.__zappyCustomerDiscountConfig && window.__zappyCustomerDiscountConfig.discountPercent > 0) {
+    if (typeof window.__zappyUpdateVariantUI === 'function' && window.productTranslations) {
+      window.__zappyUpdateVariantUI(window.selectedVariant || null, window.currentProduct, window.productTranslations, {});
+    }
+    return;
+  }
+  if (typeof window.__zappyFetchCustomerDiscount === 'function') {
+    await window.__zappyFetchCustomerDiscount();
+    if (typeof window.__zappyUpdateVariantUI === 'function' && window.productTranslations) {
+      window.__zappyUpdateVariantUI(window.selectedVariant || null, window.currentProduct, window.productTranslations, {});
+    }
+  }
+}
 async function loadProductDetailPage() {
   const detailSection = document.getElementById('product-detail');
   if (!detailSection) return; // Not on product detail page
@@ -6079,6 +6127,7 @@ async function loadProductDetailPage() {
     
     const product = data.data;
     renderProductDetail(detailSection, product, t);
+    await syncProductDetailCustomerDiscount();
     
     // Update page title and meta
     document.title = product.name + ' - ' + (document.title.split(' - ').pop() || '');
@@ -7605,6 +7654,7 @@ function updateVariantUI(variant, product, t, selectedAttributes) {
     const finalPrice = variantPrice !== null ? variantPrice : basePrice;
     let displayedFinalPrice = finalPrice;
     let displayOriginalPrice = variantPrice !== null ? finalPrice : originalPrice;
+    var customerDiscountApplied = false;
 
     const seasonalD = typeof getSeasonalDiscountForProduct === 'function'
       ? getSeasonalDiscountForProduct(product.id)
@@ -7623,12 +7673,12 @@ function updateVariantUI(variant, product, t, selectedAttributes) {
     }
     
     if (priceDisplay) {
-      if (displayedFinalPrice < finalPrice) {
+      if (displayedFinalPrice < finalPrice || customerDiscountApplied) {
         priceDisplay.innerHTML = t.currency + displayedFinalPrice.toFixed(2) + ' <span class="original-price">' + t.currency + displayOriginalPrice.toFixed(2) + '</span>';
       } else if (variantPrice === null && hasSalePrice) {
         priceDisplay.innerHTML = t.currency + finalPrice.toFixed(2) + ' <span class="original-price">' + t.currency + originalPrice.toFixed(2) + '</span>';
       } else {
-        priceDisplay.textContent = t.currency + finalPrice.toFixed(2);
+        priceDisplay.textContent = t.currency + displayedFinalPrice.toFixed(2);
       }
     }
     
@@ -10870,7 +10920,7 @@ function fixContrast(){
 })();
 
 
-/* ZAPPY_VARIANT_SELECTION_FIX */
+/* ZAPPY_VARIANT_SELECTION_FIX_V2 */
 (function(){
   try {
     if (window.__zappyVariantFixInit) return;
@@ -10940,7 +10990,7 @@ function fixContrast(){
           if(_oos(v)){if(sd){sd.className='product-stock out-of-stock';sd.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>'+(t.outOfStock||'Out of Stock')}if(ab){ab.disabled=true;ab.style.opacity='0.5';ab.style.cursor='not-allowed'}}
           else{if(sd){sd.className='product-stock in-stock';sd.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>'+(t.inStock||'In Stock')}if(ab){ab.disabled=false;ab.style.opacity='';ab.style.cursor=''}}
           var skd=document.getElementById('product-sku-display');if(skd){var skL=(typeof getEcomText==='function')?getEcomText('sku',t.sku||'SKU'):(t.sku||'SKU');if(v.sku){skd.textContent=skL+': '+v.sku}else if(product.sku){skd.textContent=skL+': '+product.sku}}
-          var pd=document.getElementById('product-price-display');if(pd){var c=product.currency||t.currency||String.fromCharCode(8362),bP=window.productBasePrice||parseFloat(product.price)||0,oP=window.productOriginalPrice||parseFloat(product.compare_at_price||product.original_price||0),hS=window.productHasSalePrice,fP=(v.price!=null)?parseFloat(v.price):bP,h=c+fP.toFixed(2);if(v.price!=null){if(oP&&oP>fP)h+=' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}else if(hS&&oP>fP){h+=' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}pd.innerHTML=h}if(typeof updatePricePerUnitDisplay==='function'){var eP=(v.price!=null)?parseFloat(v.price):(window.productBasePrice||parseFloat(product.price)||0);updatePricePerUnitDisplay(eP,product,t)}
+          var pd=document.getElementById('product-price-display');if(pd){var c=product.currency||t.currency||String.fromCharCode(8362),bP=window.productBasePrice||parseFloat(product.price)||0,oP=window.productOriginalPrice||parseFloat(product.compare_at_price||product.original_price||0),hS=window.productHasSalePrice,fP=(v.price!=null)?parseFloat(v.price):bP;var _cdApplied=false,_cdOrig=fP;if(typeof window.__zappyApplyCustomerPercentToPrice==='function'&&product&&product.id){var _cdRes=window.__zappyApplyCustomerPercentToPrice(fP,product.id);if(_cdRes&&_cdRes.applied){_cdApplied=true;_cdOrig=fP;fP=_cdRes.price}}var h=c+fP.toFixed(2);if(_cdApplied){h+=' <span class="original-price">'+c+_cdOrig.toFixed(2)+'</span>'}else if(v.price!=null){if(oP&&oP>fP)h+=' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}else if(hS&&oP>fP){h+=' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}pd.innerHTML=h}if(typeof updatePricePerUnitDisplay==='function'){var eP=(v.price!=null)?parseFloat(v.price):(window.productBasePrice||parseFloat(product.price)||0);if(typeof window.__zappyApplyCustomerPercentToPrice==='function'&&product&&product.id){var _cdRes2=window.__zappyApplyCustomerPercentToPrice(eP,product.id);if(_cdRes2&&_cdRes2.applied)eP=_cdRes2.price}updatePricePerUnitDisplay(eP,product,t)}
           _updImg(v);
         }
       } else {
@@ -10948,8 +10998,8 @@ function fixContrast(){
         if(sd){sd.className='product-stock in-stock';sd.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>'+(t.inStock||'In Stock')}
         if(ab){ab.disabled=false;ab.style.opacity='';ab.style.cursor=''}
         var skd2=document.getElementById('product-sku-display');if(skd2&&product.sku){var skL2=(typeof getEcomText==='function')?getEcomText('sku',t.sku||'SKU'):(t.sku||'SKU');skd2.textContent=skL2+': '+product.sku}
-        var pd=document.getElementById('product-price-display');if(pd){var c=product.currency||t.currency||String.fromCharCode(8362),bP=window.productBasePrice||parseFloat(product.price)||0,oP=window.productOriginalPrice||parseFloat(product.compare_at_price||product.original_price||0),hS=window.productHasSalePrice,hR=window.productHasVariantPriceRange,mP=window.productVariantMinPrice;if(hR&&mP!=null&&isFinite(mP)){var sL=(typeof getEcomText==='function')?getEcomText('startingAt',t.startingAt||'Starting at'):(t.startingAt||'Starting at');pd.textContent=sL+' '+c+mP.toFixed(2)}else if(hS&&oP>bP){pd.innerHTML=c+bP.toFixed(2)+' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}else{pd.textContent=c+bP.toFixed(2)}}
-        if(typeof updatePricePerUnitDisplay==='function'){var hR2=window.productHasVariantPriceRange,mP2=window.productVariantMinPrice,bP2=window.productBasePrice||parseFloat(product.price)||0,rP=(hR2&&mP2!=null&&isFinite(mP2))?mP2:bP2;updatePricePerUnitDisplay(rP,product,t)}
+        var pd=document.getElementById('product-price-display');if(pd){var c=product.currency||t.currency||String.fromCharCode(8362),bP=window.productBasePrice||parseFloat(product.price)||0,oP=window.productOriginalPrice||parseFloat(product.compare_at_price||product.original_price||0),hS=window.productHasSalePrice,hR=window.productHasVariantPriceRange,mP=window.productVariantMinPrice;var _cdFn=(typeof window.__zappyApplyCustomerPercentToPrice==='function'&&product&&product.id)?window.__zappyApplyCustomerPercentToPrice:null;if(hR&&mP!=null&&isFinite(mP)){var sL=(typeof getEcomText==='function')?getEcomText('startingAt',t.startingAt||'Starting at'):(t.startingAt||'Starting at');if(_cdFn){var _r=_cdFn(mP,product.id);if(_r&&_r.applied){pd.innerHTML=sL+' '+c+_r.price.toFixed(2)+' <span class="original-price">'+c+mP.toFixed(2)+'</span>'}else{pd.textContent=sL+' '+c+mP.toFixed(2)}}else{pd.textContent=sL+' '+c+mP.toFixed(2)}}else if(_cdFn){var _r2=_cdFn(bP,product.id);if(_r2&&_r2.applied){pd.innerHTML=c+_r2.price.toFixed(2)+' <span class="original-price">'+c+bP.toFixed(2)+'</span>'}else if(hS&&oP>bP){pd.innerHTML=c+bP.toFixed(2)+' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}else{pd.textContent=c+bP.toFixed(2)}}else if(hS&&oP>bP){pd.innerHTML=c+bP.toFixed(2)+' <span class="original-price">'+c+oP.toFixed(2)+'</span>'}else{pd.textContent=c+bP.toFixed(2)}}
+        if(typeof updatePricePerUnitDisplay==='function'){var hR2=window.productHasVariantPriceRange,mP2=window.productVariantMinPrice,bP2=window.productBasePrice||parseFloat(product.price)||0,rP=(hR2&&mP2!=null&&isFinite(mP2))?mP2:bP2;if(typeof window.__zappyApplyCustomerPercentToPrice==='function'&&product&&product.id){var _cdRp=window.__zappyApplyCustomerPercentToPrice(rP,product.id);if(_cdRp&&_cdRp.applied)rP=_cdRp.price}updatePricePerUnitDisplay(rP,product,t)}
         _updImg(null);
       }
     }
@@ -11596,15 +11646,41 @@ function fixContrast(){
             }
             if (addBtn) { addBtn.disabled = false; addBtn.style.opacity = ''; addBtn.style.cursor = ''; }
           }
-          // Always update price when a variant is matched
+          // Always update price when a variant is matched.
+          //
+          // CUSTOMER-DISCOUNT AWARENESS (per-customer percentage off):
+          // When the active shopper has a customer-specific percentage discount
+          // configured (delivered into window.__zappyCustomerDiscountConfig by
+          // the storefront's customer-discount runtime), we MUST apply it here
+          // too — otherwise variant clicks in the fullscreen-preview editor
+          // overwrite the discounted price with the raw variant price, leaving
+          // merchants unable to preview "what their customer sees" while
+          // editing. This mirrors the V2 patch in
+          // githubService.ensureVariantSelectionFix that runs on the published
+          // site; the two click-handler paths must stay in sync since the
+          // editor's capture-phase handler (this one) runs first and
+          // stopImmediatePropagation()s the published-site V2 handler. Pinned
+          // by server/tests/previewVariantDisplayCustomerDiscount.test.js.
           if (priceDisplay) {
             var currency = product.currency || t.currency || '₪';
             var baseP = window.productBasePrice || parseFloat(product.price) || 0;
             var origP = window.productOriginalPrice || parseFloat(product.compare_at_price || product.original_price || 0);
             var hasSale = window.productHasSalePrice;
             var finalPrice = (v.price != null) ? parseFloat(v.price) : baseP;
+            var _cdApplied = false;
+            var _cdOrig = finalPrice;
+            if (typeof window.__zappyApplyCustomerPercentToPrice === 'function' && product && product.id) {
+              var _cdRes = window.__zappyApplyCustomerPercentToPrice(finalPrice, product.id);
+              if (_cdRes && _cdRes.applied) {
+                _cdApplied = true;
+                _cdOrig = finalPrice;
+                finalPrice = _cdRes.price;
+              }
+            }
             var html = currency + finalPrice.toFixed(2);
-            if (v.price != null) {
+            if (_cdApplied) {
+              html += ' <span class="original-price">' + currency + _cdOrig.toFixed(2) + '</span>';
+            } else if (v.price != null) {
               if (origP && origP > finalPrice) {
                 html += ' <span class="original-price">' + currency + origP.toFixed(2) + '</span>';
               }
@@ -11613,9 +11689,15 @@ function fixContrast(){
             }
             priceDisplay.innerHTML = html;
           }
-          // Update price-per-unit if the function exists
+          // Update price-per-unit if the function exists. Feed the discounted
+          // price (when a customer discount applied) so per-unit math matches
+          // the headline price.
           if (typeof updatePricePerUnitDisplay === 'function') {
             var effPrice = (v.price != null) ? parseFloat(v.price) : (window.productBasePrice || parseFloat(product.price) || 0);
+            if (typeof window.__zappyApplyCustomerPercentToPrice === 'function' && product && product.id) {
+              var _cdResUnit = window.__zappyApplyCustomerPercentToPrice(effPrice, product.id);
+              if (_cdResUnit && _cdResUnit.applied) effPrice = _cdResUnit.price;
+            }
             updatePricePerUnitDisplay(effPrice, product, t);
           }
           // Update SKU: prefer variant SKU, fall back to base product SKU.
@@ -11658,7 +11740,10 @@ function fixContrast(){
           stockDisplay.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>' + (t.inStock || 'In Stock');
         }
         if (addBtn) { addBtn.disabled = false; addBtn.style.opacity = ''; addBtn.style.cursor = ''; }
-        // Reset price to initial state (Starting at / base price)
+        // Reset price to initial state (Starting at / base price). Same
+        // customer-discount path as the variant-matched branch above; without
+        // this, partially-selecting a variant and then deselecting another
+        // wipes the customer's discount until they re-pick a full combo.
         if (priceDisplay) {
           var currency = product.currency || t.currency || '₪';
           var baseP = window.productBasePrice || parseFloat(product.price) || 0;
@@ -11666,21 +11751,50 @@ function fixContrast(){
           var hasSale = window.productHasSalePrice;
           var hasRange = window.productHasVariantPriceRange;
           var minP = window.productVariantMinPrice;
+          var _cdFn = (typeof window.__zappyApplyCustomerPercentToPrice === 'function' && product && product.id)
+            ? window.__zappyApplyCustomerPercentToPrice
+            : null;
           if (hasRange && minP != null && isFinite(minP)) {
             var startLabel = (typeof getEcomText === 'function') ? getEcomText('startingAt', t.startingAt || 'Starting at') : (t.startingAt || 'Starting at');
-            priceDisplay.textContent = startLabel + ' ' + currency + minP.toFixed(2);
+            if (_cdFn) {
+              var _cdRange = _cdFn(minP, product.id);
+              if (_cdRange && _cdRange.applied) {
+                priceDisplay.innerHTML = startLabel + ' ' + currency + _cdRange.price.toFixed(2) +
+                  ' <span class="original-price">' + currency + minP.toFixed(2) + '</span>';
+              } else {
+                priceDisplay.textContent = startLabel + ' ' + currency + minP.toFixed(2);
+              }
+            } else {
+              priceDisplay.textContent = startLabel + ' ' + currency + minP.toFixed(2);
+            }
+          } else if (_cdFn) {
+            var _cdBase = _cdFn(baseP, product.id);
+            if (_cdBase && _cdBase.applied) {
+              priceDisplay.innerHTML = currency + _cdBase.price.toFixed(2) +
+                ' <span class="original-price">' + currency + baseP.toFixed(2) + '</span>';
+            } else if (hasSale && origP > baseP) {
+              priceDisplay.innerHTML = currency + baseP.toFixed(2) +
+                ' <span class="original-price">' + currency + origP.toFixed(2) + '</span>';
+            } else {
+              priceDisplay.textContent = currency + baseP.toFixed(2);
+            }
           } else if (hasSale && origP > baseP) {
             priceDisplay.innerHTML = currency + baseP.toFixed(2) + ' <span class="original-price">' + currency + origP.toFixed(2) + '</span>';
           } else {
             priceDisplay.textContent = currency + baseP.toFixed(2);
           }
         }
-        // Reset price-per-unit
+        // Reset price-per-unit (apply customer discount when active so the
+        // per-unit math matches the headline reset price).
         if (typeof updatePricePerUnitDisplay === 'function') {
-          var hasRange = window.productHasVariantPriceRange;
-          var minP = window.productVariantMinPrice;
-          var baseP = window.productBasePrice || parseFloat(product.price) || 0;
-          var resetPrice = (hasRange && minP != null && isFinite(minP)) ? minP : baseP;
+          var hasRange2 = window.productHasVariantPriceRange;
+          var minP2 = window.productVariantMinPrice;
+          var baseP2 = window.productBasePrice || parseFloat(product.price) || 0;
+          var resetPrice = (hasRange2 && minP2 != null && isFinite(minP2)) ? minP2 : baseP2;
+          if (typeof window.__zappyApplyCustomerPercentToPrice === 'function' && product && product.id) {
+            var _cdResetUnit = window.__zappyApplyCustomerPercentToPrice(resetPrice, product.id);
+            if (_cdResetUnit && _cdResetUnit.applied) resetPrice = _cdResetUnit.price;
+          }
           updatePricePerUnitDisplay(resetPrice, product, t);
         }
         // Restore original image when no variant is fully selected
@@ -13122,4 +13236,202 @@ function fixContrast(){
     setTimeout(injectMobileNavIconAlignmentFix, 250);
     setTimeout(injectMobileNavIconAlignmentFix, 1000);
   } catch (e) {}
+})();
+
+/* ZAPPY_CUSTOMER_DISCOUNT_CONFIG_FALLBACK_V3 */
+
+/* ZAPPY_CUSTOMER_DISCOUNT_PRODUCT_DETAIL_RACE_V1 */
+
+/* ZAPPY_CUSTOMER_DISCOUNT_DELAYED_REFRESH_V1 */
+
+/* ZAPPY_CUSTOMER_DISCOUNT_GRID_REFRESH_V1 */
+
+
+/* ZAPPY_CUSTOMER_DISCOUNT_RUNTIME_V1 */
+;(function() {
+  if (window.__zappyCustomerDiscountRuntimeV1) return;
+  window.__zappyCustomerDiscountRuntimeV1 = true;
+
+  function apiUrl(path) {
+    var base = window.ZAPPY_API_BASE || '';
+    if (base.endsWith('/')) base = base.slice(0, -1);
+    return base + path;
+  }
+
+  function getDiscount(productId) {
+    var cfg = window.__zappyCustomerDiscountConfig;
+    if (!cfg || !cfg.discountPercent) return null;
+    var excluded = cfg.excludedProductIds || [];
+    if (excluded.indexOf(productId) !== -1) return null;
+    return cfg;
+  }
+
+  function applyPercent(basePrice, productId) {
+    var d = getDiscount(productId);
+    if (!d || !Number.isFinite(basePrice) || basePrice <= 0) {
+      return { price: basePrice, applied: false };
+    }
+    var discounted = basePrice - (basePrice * parseFloat(d.discountPercent) / 100);
+    if (!Number.isFinite(discounted) || discounted >= basePrice) {
+      return { price: basePrice, applied: false };
+    }
+    return { price: discounted, applied: true, originalPrice: basePrice };
+  }
+
+  window.__zappyApplyCustomerPercentToPrice = applyPercent;
+
+  function currencyFromText(text) {
+    var m = String(text || '').match(/[₪$€£]/);
+    return m ? m[0] : '₪';
+  }
+
+  function isPriceAlreadyCustomerDiscounted(priceEl, productId) {
+    if (!priceEl) return true;
+    if (priceEl.getAttribute('data-customer-discount-applied')) return true;
+    // Sale / seasonal strikethrough also uses .original-price — only skip when the
+    // visible price already matches a customer discount computed from the
+    // strikethrough base (generator path that omits data-customer-discount-applied).
+    var origEl = priceEl.querySelector('.original-price');
+    if (!origEl || !productId) return false;
+    var raw = priceEl.textContent || '';
+    var nums = raw.match(/[\d,.]+/g);
+    if (!nums || !nums.length) return false;
+    var displayed = parseFloat(nums[0].replace(/,/g, ''));
+    var origNums = (origEl.textContent || '').match(/[\d,.]+/g);
+    if (!origNums || !origNums.length) return false;
+    var preCustomerBase = parseFloat(origNums[origNums.length - 1].replace(/,/g, ''));
+    if (!Number.isFinite(displayed) || !Number.isFinite(preCustomerBase)) return false;
+    var adj = applyPercent(preCustomerBase, productId);
+    if (!adj.applied) return false;
+    return Math.abs(displayed - adj.price) < 0.02;
+  }
+
+  function applyPricesToCards() {
+    if (!window.__zappyCustomerDiscountConfig || !window.__zappyCustomerDiscountConfig.discountPercent) return;
+    document.querySelectorAll('[data-product-id]').forEach(function(card) {
+      var pid = card.getAttribute('data-product-id');
+      var priceEl = card.querySelector('.price') || card.querySelector('.product-price');
+      if (!priceEl || isPriceAlreadyCustomerDiscounted(priceEl, pid)) return;
+      var raw = priceEl.textContent || '';
+      var starting = /(?:Starting at|החל מ)/i.test(raw);
+      var nums = raw.match(/[\d,.]+/g);
+      if (!nums || !nums.length) return;
+      var base = parseFloat(nums[0].replace(/,/g, ''));
+      if (!Number.isFinite(base) || base <= 0) return;
+      var adj = applyPercent(base, pid);
+      if (!adj.applied) return;
+      var sym = currencyFromText(raw);
+      if (starting) {
+        var prefix = raw.match(/(?:Starting at|החל מ)/i);
+        var label = prefix ? prefix[0] : 'Starting at';
+        priceEl.innerHTML = label + ' ' + sym + adj.price.toFixed(2) + ' <span class="original-price">' + sym + base.toFixed(2) + '</span>';
+      } else {
+        priceEl.innerHTML = sym + adj.price.toFixed(2) + ' <span class="original-price">' + sym + base.toFixed(2) + '</span>';
+      }
+      priceEl.setAttribute('data-customer-discount-applied', '1');
+    });
+  }
+
+  function refreshProductDetailPrice() {
+    if (!window.currentProduct || !window.__zappyCustomerDiscountConfig) return;
+    if (typeof window.__zappyUpdateVariantUI === 'function' && window.productTranslations) {
+      window.__zappyUpdateVariantUI(window.selectedVariant || null, window.currentProduct, window.productTranslations, {});
+      return;
+    }
+    var priceEl = document.getElementById('product-price-display');
+    if (!priceEl || isPriceAlreadyCustomerDiscounted(priceEl, window.currentProduct.id)) return;
+    var raw = priceEl.textContent || '';
+    var starting = /(?:Starting at|החל מ)/i.test(raw);
+    var nums = raw.match(/[\d,.]+/g);
+    if (!nums || !nums.length) return;
+    var base = parseFloat((starting && nums.length > 1 ? nums[nums.length - 1] : nums[0]).replace(/,/g, ''));
+    if (!Number.isFinite(base) || base <= 0) return;
+    var adj = applyPercent(base, window.currentProduct.id);
+    if (!adj.applied) return;
+    var sym = currencyFromText(raw);
+    if (starting) {
+      var prefix = raw.match(/(?:Starting at|החל מ)/i);
+      var label = prefix ? prefix[0] : 'Starting at';
+      priceEl.innerHTML = label + ' ' + sym + adj.price.toFixed(2) + ' <span class="original-price">' + sym + base.toFixed(2) + '</span>';
+    } else {
+      priceEl.innerHTML = sym + adj.price.toFixed(2) + ' <span class="original-price">' + sym + base.toFixed(2) + '</span>';
+    }
+    priceEl.setAttribute('data-customer-discount-applied', '1');
+  }
+
+  async function syncCustomerDiscount() {
+    if (typeof window.__zappyFetchCustomerDiscount === 'function') {
+      try {
+        await window.__zappyFetchCustomerDiscount();
+      } catch (e) {
+        console.warn('[ZAPPY] Customer discount runtime delegate failed', e);
+      }
+      applyPricesToCards();
+      refreshProductDetailPrice();
+      if (typeof window.loadProducts === 'function') {
+        try { window.loadProducts(); } catch (e) {}
+      }
+      if (typeof window.__zappyScheduleDynamicProductGridsDiscountRefresh === 'function') {
+        try { window.__zappyScheduleDynamicProductGridsDiscountRefresh(); } catch (e) {}
+      }
+      [800, 2500].forEach(function(ms) {
+        setTimeout(refreshProductDetailPrice, ms);
+      });
+      return;
+    }
+    var wid = window.ZAPPY_WEBSITE_ID;
+    if (!wid) return;
+    var token = localStorage.getItem('zappy_customer_token_' + wid);
+    if (!token) {
+      window.__zappyCustomerDiscountConfig = null;
+      return;
+    }
+    try {
+      var res = await fetch(apiUrl('/api/ecommerce/storefront/customer-discount?websiteId=' + encodeURIComponent(wid)), {
+        headers: { Authorization: 'Bearer ' + token }
+      });
+      var data = await res.json();
+      if (data.success && data.data && data.data.discountPercent > 0) {
+        window.__zappyCustomerDiscountConfig = data.data;
+      } else {
+        window.__zappyCustomerDiscountConfig = null;
+      }
+    } catch (e) {
+      console.warn('[ZAPPY] Customer discount runtime fetch failed', e);
+      window.__zappyCustomerDiscountConfig = null;
+    }
+    applyPricesToCards();
+    refreshProductDetailPrice();
+    if (typeof window.loadProducts === 'function') {
+      try { window.loadProducts(); } catch (e) {}
+    }
+    if (typeof window.__zappyScheduleDynamicProductGridsDiscountRefresh === 'function') {
+      try { window.__zappyScheduleDynamicProductGridsDiscountRefresh(); } catch (e) {}
+    }
+    [800, 2500].forEach(function(ms) {
+      setTimeout(refreshProductDetailPrice, ms);
+    });
+  }
+
+  function boot() {
+    syncCustomerDiscount();
+    var detail = document.getElementById('product-detail');
+    if (detail && typeof MutationObserver !== 'undefined') {
+      new MutationObserver(function() {
+        refreshProductDetailPrice();
+      }).observe(detail, { childList: true, subtree: true });
+    }
+    var grid = document.getElementById('zappy-product-grid');
+    if (grid && typeof MutationObserver !== 'undefined') {
+      new MutationObserver(function() {
+        applyPricesToCards();
+      }).observe(grid, { childList: true, subtree: true });
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
+  }
 })();
