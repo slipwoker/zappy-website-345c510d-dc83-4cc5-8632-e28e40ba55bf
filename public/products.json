@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T18:20:16.023Z",
+  "generated_at": "2026-05-24T18:31:08.130Z",
   "base_url": "https://example.com",
   "currency": "USD",
   "count": 13,
@@ -57,7 +57,7 @@
     },
     {
       "id": "fbadb01b-7b73-4631-b5a1-ae30be8655e5",
-      "slug": "krvp-rvgby-gzvr-x7xdsk",
+      "slug": "krvp-rvgby-gzvr-ofrp7k",
       "name": "קרופ רוגבי גזור ",
       "name_translations": {},
       "description": "",
@@ -126,11 +126,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/krvp-rvgby-gzvr-x7xdsk",
+      "url": "https://example.com/product/krvp-rvgby-gzvr-ofrp7k",
       "categories": [
         "חולצות בייסיק"
       ],
-      "updated_at": "2026-05-23T20:36:10.772Z"
+      "updated_at": "2026-05-24T18:25:16.774Z"
     },
     {
       "id": "ce529000-8eb1-4d33-b1cb-d2a0dd56a53c",

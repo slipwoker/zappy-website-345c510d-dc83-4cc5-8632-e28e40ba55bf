@@ -4705,7 +4705,7 @@ SKU: 751761
 ---
 
 ### קרופ רוגבי גזור 
-URL: https://example.com/product/krvp-rvgby-gzvr-x7xdsk
+URL: https://example.com/product/krvp-rvgby-gzvr-ofrp7k
 Price: 45.00 USD (sale, was 55.00 USD)
 Availability: In stock
 SKU: 751402
