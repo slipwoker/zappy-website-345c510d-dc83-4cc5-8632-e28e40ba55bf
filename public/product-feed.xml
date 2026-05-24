@@ -4,14 +4,1865 @@
     <title>BE BASIC</title>
     <link>https://example.com</link>
     <description>Product feed for BE BASIC</description>
-    <lastBuildDate>Sat, 23 May 2026 13:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 06:56:36 GMT</lastBuildDate>
     <item>
-      <g:id>cf222779-3992-4768-8614-270c0549975e</g:id>
-      <g:title>טריקו וי מנג&apos;ט בשרוול </g:title>
+      <g:id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09__9a203b7a-06c3-4ba1-88fc-69165d03c397</g:id>
+      <g:title>קרופ כיווצים  - Black / ONE SIZE</g:title>
+      <g:description>חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/krvp-kyvvtsym-8os7cb</g:link>
+      <g:item_group_id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779569035874-xc5by7.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568874450-vjlen.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568882705-w843nm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568899808-4dsaae.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568907769-i0jq45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568915420-9omyhp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568923652-l5hzjq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568931936-ll2n48.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568944678-4f1nxr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568953131-ac5ly.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568974160-jkgoi.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751761</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09__0b158da9-60b5-458a-b798-803c56279688</g:id>
+      <g:title>קרופ כיווצים  - White / ONE SIZE</g:title>
+      <g:description>חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/krvp-kyvvtsym-8os7cb</g:link>
+      <g:item_group_id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779568907769-i0jq45.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568874450-vjlen.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568882705-w843nm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568899808-4dsaae.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568915420-9omyhp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568923652-l5hzjq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568931936-ll2n48.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568944678-4f1nxr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568953131-ac5ly.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568974160-jkgoi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568981630-nsu5yq.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751761</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09__8b9423ae-904f-49f0-9cf9-cd90c005df5b</g:id>
+      <g:title>קרופ כיווצים  - Gray / ONE SIZE</g:title>
+      <g:description>חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/krvp-kyvvtsym-8os7cb</g:link>
+      <g:item_group_id>8c013bbc-07ab-4dbd-9346-1d0ad5422b09</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779569072834-rws02a.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568874450-vjlen.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568882705-w843nm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568899808-4dsaae.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568907769-i0jq45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568915420-9omyhp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568923652-l5hzjq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568931936-ll2n48.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568944678-4f1nxr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568953131-ac5ly.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779568974160-jkgoi.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751761</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__4a318f3b-ae76-4ab6-9821-997596c39e11</g:id>
+      <g:title>קרופ רוגבי גזור  - Black / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779568201654-vmkt.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__ea569f6f-56ec-4a60-a2cb-12cf5709cb0c</g:id>
+      <g:title>קרופ רוגבי גזור  - White / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779568020796-vs8bha.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__a03d233e-3747-44ec-9762-459e97ed825b</g:id>
+      <g:title>קרופ רוגבי גזור  - Brown / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567939066-kb650u.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__cb4dc1ca-47d5-422a-a962-8ddef2a12fe3</g:id>
+      <g:title>קרופ רוגבי גזור  - Gray / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567916540-aemw4n.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__1bab39e3-9d11-4516-99aa-97bafcdc5451</g:id>
+      <g:title>קרופ רוגבי גזור  - ורוד בייבי / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567885152-t9cze.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__3b4cc8c3-0fb6-448b-b888-976d2639adfd</g:id>
+      <g:title>קרופ רוגבי גזור  - צהוב בננה / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779568114838-mihq6c.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>fbadb01b-7b73-4631-b5a1-ae30be8655e5__d2fcfc50-7b88-4c0a-8e60-bf91a431ba57</g:id>
+      <g:title>קרופ רוגבי גזור  - תכלת / ONE SIZE</g:title>
+      <g:description>חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים</g:description>
+      <g:link>https://example.com/product/krvp-rvgby-gzvr-x7xdsk</g:link>
+      <g:item_group_id>fbadb01b-7b73-4631-b5a1-ae30be8655e5</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779568279276-wj7h0s.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567799778-t4d77m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567806881-pndlma.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567814184-zx693p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567820999-aqxu9l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567827606-visi46.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567836019-0hx2h9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567843236-6t47h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567850667-sxo9mr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567870061-x9yzwu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567877660-h4p4ug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751402</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__3315b455-70d3-495f-8ed7-0e5e9f0c2e92</g:id>
+      <g:title>חולצת קרופ רוגבי - Black / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567307183-8ce6gs.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__cdace1f9-f4b1-4606-8b3e-e23cdc36892e</g:id>
+      <g:title>חולצת קרופ רוגבי - White / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567184810-hcrikb.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__8eb19309-9486-4606-bea6-dd43975ee2c8</g:id>
+      <g:title>חולצת קרופ רוגבי - Brown / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567052563-7udqao.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__7cafef95-eb6c-4671-932c-b04d882f56a5</g:id>
+      <g:title>חולצת קרופ רוגבי - Gray / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567052563-7udqao.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__9d2c7e49-cbc1-49d0-ac47-d75ff8fe7d51</g:id>
+      <g:title>חולצת קרופ רוגבי - בננה / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567245279-wxj8ga.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c__c9380d60-5624-4f45-bb17-ce98816d13ca</g:id>
+      <g:title>חולצת קרופ רוגבי - ורוד בייבי / ONE SIZE</g:title>
+      <g:description>חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!</g:description>
+      <g:link>https://example.com/product/chvltst-krvp-rvgby-ml3fwl</g:link>
+      <g:item_group_id>ce529000-8eb1-4d33-b1cb-d2a0dd56a53c</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779567108540-o0fce.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566956420-n4ogbm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566964180-rdcu45.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566976352-5k9s6p.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566983750-p1tm6.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566990885-oq7q24.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779566998771-hk5m4c.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567019406-ljgrx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567028287-4slaue.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567036342-6ufmc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779567045043-evy07i.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751395</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__37d44a31-3239-4420-9043-f5aae4f9baaa</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - Black / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565974882-629apr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__ec9ff787-1654-4842-8467-e463cab91d2c</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - Black / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565974882-629apr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__1139de22-2471-42e5-86f1-852822e0255c</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - Brown / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565641668-8qqyck.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__b644ddf0-0940-495e-b206-e3801fe60962</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - Brown / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565641668-8qqyck.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__c2236a9b-b1af-4081-ba2d-1a1791bf133a</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - ורוד בייבי / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565641668-8qqyck.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__d0ae0d53-4007-4511-b22f-7791198fc5c8</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - ורוד בייבי / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565641668-8qqyck.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__9d929f9e-c817-472c-8915-39e988e0733a</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - בננה / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565878963-xfwc2.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__a431834a-5fde-448a-8edf-f0d8541680c1</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - בננה / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565878963-xfwc2.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__29445c5b-e699-49ed-8171-77812499baa6</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - לבן/נייבי / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565753799-tknixy.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>59a87f81-9850-4d5a-a730-dcdf228c3d41__3a40d298-be03-4479-a833-f331856d2aef</g:id>
+      <g:title>בייסיק ניקי שילוב צבעים - לבן/נייבי / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים</g:description>
+      <g:link>https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq</g:link>
+      <g:item_group_id>59a87f81-9850-4d5a-a730-dcdf228c3d41</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779565769648-rdp6p.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565541350-o9wj6m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565549833-f041x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565558781-tijw7b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565567297-ux7woc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565574883-f6jsjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565584107-i7aq6z.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565592263-xoj8c7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565601251-5ys7s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565609183-3bv5u.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779565633114-eszgca.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751768</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__b86a1267-7d0a-491f-becf-db0fb6e93a77</g:id>
+      <g:title>בייסיק צווארון ניקי   - Black / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563779871-5zkrrr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__9785c8ab-ce61-4b65-a376-cb5fda117b2d</g:id>
+      <g:title>בייסיק צווארון ניקי   - Black / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563779871-5zkrrr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__fac012e1-7b19-4730-bbe7-8d80e14c4137</g:id>
+      <g:title>בייסיק צווארון ניקי   - White / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563546366-sdp9q.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__03638b28-877b-4bb5-a797-4cf4cc12824a</g:id>
+      <g:title>בייסיק צווארון ניקי   - White / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563546366-sdp9q.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__ae9b7d50-5452-49b5-8770-ea0e5de2e287</g:id>
+      <g:title>בייסיק צווארון ניקי   - Gray / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__21845ad1-6380-4fd4-a4ad-493ddd3216c3</g:id>
+      <g:title>בייסיק צווארון ניקי   - Gray / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__7cd31d97-0f94-422c-9b3e-4d5c0f44a0ec</g:id>
+      <g:title>בייסיק צווארון ניקי   - Red / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__6f35b8ed-8439-4214-84db-c65edfb11a7e</g:id>
+      <g:title>בייסיק צווארון ניקי   - Red / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__dde1b1a9-8461-430a-b56d-8e0fb746d31b</g:id>
+      <g:title>בייסיק צווארון ניקי   - Brown / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563473972-uynxp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__3f441a2d-5ce7-4771-a507-4025246b2101</g:id>
+      <g:title>בייסיק צווארון ניקי   - Brown / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563473972-uynxp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__beb28a34-7eae-4134-bc0b-a569a0db372d</g:id>
+      <g:title>בייסיק צווארון ניקי   - Orange / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563148571-epy0mn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__e91f3eee-7528-4081-88d7-9f5c28faa359</g:id>
+      <g:title>בייסיק צווארון ניקי   - Orange / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563148571-epy0mn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__84fc85b3-05f2-4b76-affc-bb43eb3aa187</g:id>
+      <g:title>בייסיק צווארון ניקי   - בננה / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563311810-p348ej.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__10e0781e-5c9d-4b92-9c40-09cc8a67a977</g:id>
+      <g:title>בייסיק צווארון ניקי   - בננה / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563311810-p348ej.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__d976fa04-3bcb-475b-bb5e-2750ea8105dd</g:id>
+      <g:title>בייסיק צווארון ניקי   - תכלת / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__ec99bf3a-52a6-4a97-ac41-9fc045dab27c</g:id>
+      <g:title>בייסיק צווארון ניקי   - תכלת / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563115365-6d1k2m.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__4d626031-7f59-44bf-b65b-71ded14a1435</g:id>
+      <g:title>בייסיק צווארון ניקי   - סגול לילך / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563611277-erzhm8.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__6ff233a2-4359-4dd9-a920-92c04f7adabc</g:id>
+      <g:title>בייסיק צווארון ניקי   - סגול לילך / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563611277-erzhm8.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__ea6c7a3a-9892-4c81-a810-fb248de1ce64</g:id>
+      <g:title>בייסיק צווארון ניקי   - חמאה / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563699274-wbi4uc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__3b71b67e-088e-4ebd-9642-c8ea5c5c8f4d</g:id>
+      <g:title>בייסיק צווארון ניקי   - חמאה / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563699274-wbi4uc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__cf983be0-4ad2-48f3-a3ec-ec54015778fc</g:id>
+      <g:title>בייסיק צווארון ניקי   - Beige / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563243839-olsye.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__3c1088f6-3fe3-428e-bf40-3d112e30a690</g:id>
+      <g:title>בייסיק צווארון ניקי   - Beige / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563243839-olsye.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__198defc8-942c-4353-bba2-40d5e8a79f3d</g:id>
+      <g:title>בייסיק צווארון ניקי   - ורוד / XS-S</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563401947-j936ek.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>dc569658-c0a7-4253-8aeb-7032c75315e1__ab50548a-74fc-40f5-bc53-84746b278377</g:id>
+      <g:title>בייסיק צווארון ניקי   - ורוד / M-L</g:title>
+      <g:description>חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !</g:description>
+      <g:link>https://example.com/product/byysyk-tsvvarvn-nyky-2olie9</g:link>
+      <g:item_group_id>dc569658-c0a7-4253-8aeb-7032c75315e1</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779563401947-j936ek.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563882035-8eq2d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563009115-dn3mzv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563017733-q3bpp4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563025925-1n5hqr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563034025-7z9sfj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563042879-63ephl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563050707-nce8a8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563088961-ifl7yw9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563098425-elrp6q.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779563106676-k4cmg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>750790</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>a49ca244-7ba0-4523-aad1-1809ce629fc9__26672c22-65e5-4ac1-bffc-fde068dc40ed</g:id>
+      <g:title>ניקי גזרת בטן שילוב צבעים - Black / ONE SIZE</g:title>
+      <g:description>חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx</g:link>
+      <g:item_group_id>a49ca244-7ba0-4523-aad1-1809ce629fc9</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779562157572-ruu6mo.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561879859-sjlkt9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561887421-i3un1d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561895059-059wct.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561902535-l3u50n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561910070-y8nrw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561918659-6kpwp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561944213-srj3zn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561953719-kd6d8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561961362-qhk7bd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561968885-4y42ye.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751762</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>a49ca244-7ba0-4523-aad1-1809ce629fc9__e019b76e-9ec5-4f8e-b251-d829ba048c93</g:id>
+      <g:title>ניקי גזרת בטן שילוב צבעים - White / ONE SIZE</g:title>
+      <g:description>חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx</g:link>
+      <g:item_group_id>a49ca244-7ba0-4523-aad1-1809ce629fc9</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779561879859-sjlkt9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561887421-i3un1d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561895059-059wct.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561902535-l3u50n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561910070-y8nrw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561918659-6kpwp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561944213-srj3zn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561953719-kd6d8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561961362-qhk7bd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561968885-4y42ye.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561976518-xxu5w2.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751762</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>a49ca244-7ba0-4523-aad1-1809ce629fc9__6afd66ee-8cce-4cc8-a12e-51f535544dc9</g:id>
+      <g:title>ניקי גזרת בטן שילוב צבעים - Brown / ONE SIZE</g:title>
+      <g:description>חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx</g:link>
+      <g:item_group_id>a49ca244-7ba0-4523-aad1-1809ce629fc9</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779562073828-0onaem.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561879859-sjlkt9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561887421-i3un1d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561895059-059wct.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561902535-l3u50n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561910070-y8nrw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561918659-6kpwp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561944213-srj3zn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561953719-kd6d8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561961362-qhk7bd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561968885-4y42ye.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751762</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>a49ca244-7ba0-4523-aad1-1809ce629fc9__7b409937-4c52-44d2-9497-aac22c20cd4e</g:id>
+      <g:title>ניקי גזרת בטן שילוב צבעים - בננה / ONE SIZE</g:title>
+      <g:description>חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx</g:link>
+      <g:item_group_id>a49ca244-7ba0-4523-aad1-1809ce629fc9</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779561944213-srj3zn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561879859-sjlkt9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561887421-i3un1d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561895059-059wct.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561902535-l3u50n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561910070-y8nrw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561918659-6kpwp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561953719-kd6d8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561961362-qhk7bd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561968885-4y42ye.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561976518-xxu5w2.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751762</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>a49ca244-7ba0-4523-aad1-1809ce629fc9__4ba0f2b0-5c5f-4956-aca8-c4bfae0168bc</g:id>
+      <g:title>ניקי גזרת בטן שילוב צבעים - ורוד בייבי / ONE SIZE</g:title>
+      <g:description>חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE</g:description>
+      <g:link>https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx</g:link>
+      <g:item_group_id>a49ca244-7ba0-4523-aad1-1809ce629fc9</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779562010289-ad148p.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561879859-sjlkt9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561887421-i3un1d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561895059-059wct.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561902535-l3u50n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561910070-y8nrw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561918659-6kpwp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561944213-srj3zn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561953719-kd6d8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561961362-qhk7bd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779561968885-4y42ye.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751762</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__88e10714-8fc2-4c6f-814f-b24ba6075919</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - Black / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555793950-0smnj.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__acd2a97b-192e-4ff9-aaec-e9d52d75313a</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - Black / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555793950-0smnj.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__a577531a-465e-4845-8744-07145f6f7cec</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - White / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__1f4d56e1-6ae0-4383-903a-dd69204d6fc9</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - White / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__2faef6b7-8d57-4ffe-b2ff-eebbf5f607cb</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - Brown / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__d577489f-ac37-442d-b85d-33ac335d12b7</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - Brown / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__a338d971-1c5c-4d44-bb13-2192debbbde3</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - שמנת / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555674530-chkbec.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__c3cc9ef3-dd30-4899-b6cc-9d996acb4e7d</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - שמנת / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555674530-chkbec.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__da79dd03-912e-4158-a271-482ea49548b2</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - אפור זית / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae__07c2a3ce-ba9c-4aac-8d58-25125a38437b</g:id>
+      <g:title>טריקו ניקי מנג&apos;ט בשרוול  - אפור זית / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm</g:link>
+      <g:item_group_id>42ac5927-f0ec-4753-b94a-47c4bad8b7ae</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779555362223-oaeqd.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555769608-nn3bm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555370299-m9yrvg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555378167-nc2u8f.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555387370-ygb7m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555394852-q2jol.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555403152-7skx26.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555410732-6z8txl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555436749-oeqgn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555445196-jq2wa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779555452972-skwv99.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__154302b2-4493-444d-9de3-451e99ae48d5</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - Black / XS-S</g:title>
       <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
       <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
-      <g:image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:image_link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482672263-mzmodm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__fe5655bf-b246-49e5-a44d-5c4c1f96e078</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - Black / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482672263-mzmodm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__b2d0a082-6ecd-45e8-9acd-196b8a3800c3</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - White / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482638460-iak3ns.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__376d8764-4a34-493d-aa7f-e7d14901db45</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - White / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482638460-iak3ns.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__02274982-f636-44a0-a2fe-6be92e73b328</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - Brown / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482743433-kwn31.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__b845a7f7-4e6d-4d70-bd5b-cd1adbcf7ffe</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - Brown / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482743433-kwn31.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__59fc133c-6279-4112-9dbf-2cf273fa9cd3</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - אפור זית / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482831244-lk49kp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__371b272c-1743-4c73-b52c-f0fb31f34ac6</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - אפור זית / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482790775-dfbleg.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__53210dfa-1d66-45c1-a788-c5419b1eb6a4</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - שמנת / XS-S</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482382937-z7bprj9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482604883-70eqwc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482612861-jz7bqn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482621937-uu6w6d.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482631067-jqkgb.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482638460-iak3ns.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>55.00 USD</g:price>
+      <g:sale_price>45.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>BE BASIC</g:brand>
+      <g:mpn>751723</g:mpn>
+      <g:product_type>חולצות בייסיק</g:product_type>
+    </item>
+    <item>
+      <g:id>cf222779-3992-4768-8614-270c0549975e__5be28b3f-3a88-4d54-b6d2-9473e52b10e6</g:id>
+      <g:title>טריקו וי מנג&apos;ט בשרוול  - שמנת / M-L</g:title>
+      <g:description>חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג&apos;ט בשרוול מגיע במבחר צבעים לבחירה</g:description>
+      <g:link>https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4</g:link>
+      <g:item_group_id>cf222779-3992-4768-8614-270c0549975e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1779482351682-tl36rp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1779482343766-2dlvlt.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1779482359351-yi7gvx.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1779482367701-wt6e4.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1779482375306-g6apc8.webp</g:additional_image_link>

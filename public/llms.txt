@@ -72,7 +72,70 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 6**
+**Total active products: 13**
+
+### קרופ כיווצים 
+https://example.com/product/krvp-kyvvtsym-8os7cb
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751761
+- Description: חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE
+- Image: https://example.com/assets/product-1779568874450-vjlen.webp
+
+### קרופ רוגבי גזור 
+https://example.com/product/krvp-rvgby-gzvr-x7xdsk
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751402
+- Description: חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים
+- Image: https://example.com/assets/product-1779567799778-t4d77m.webp
+
+### חולצת קרופ רוגבי
+https://example.com/product/chvltst-krvp-rvgby-ml3fwl
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751395
+- Description: חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!
+- Image: https://example.com/assets/product-1779566956420-n4ogbm.webp
+
+### בייסיק ניקי שילוב צבעים
+https://example.com/product/byysyk-nyky-shylvb-tsbaym-klsufq
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751768
+- Description: חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים
+- Image: https://example.com/assets/product-1779565541350-o9wj6m.webp
+
+### בייסיק צווארון ניקי  
+https://example.com/product/byysyk-tsvvarvn-nyky-2olie9
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 750790
+- Description: חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !
+- Image: https://example.com/assets/product-1779563882035-8eq2d.webp
+
+### ניקי גזרת בטן שילוב צבעים
+https://example.com/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751762
+- Description: חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE
+- Image: https://example.com/assets/product-1779561879859-sjlkt9.webp
+
+### טריקו ניקי מנג'ט בשרוול 
+https://example.com/product/trykv-nyky-mngt-bshrvvl-opg2xm
+- Price: 45.00 USD (sale, was 55.00 USD)
+- Availability: In stock
+- Category: חולצות בייסיק
+- SKU: 751723
+- Description: חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג'ט בשרוול מגיע במבחר צבעים לבחירה
+- Image: https://example.com/assets/product-1779555769608-nn3bm.webp
 
 ### טריקו וי מנג'ט בשרוול 
 https://example.com/product/trykv-vy-mngt-bshrvvl-3qw5i4
