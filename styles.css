@@ -12843,7 +12843,6 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   }
 }
 /* /Zappy custom logo size */
-
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
