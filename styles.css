@@ -12843,6 +12843,16 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   }
 }
 /* /Zappy custom logo size */
+
+.site-footer .footer-hours,
+.site-footer .footer-hours .hours-heading,
+.site-footer .footer-hours .hours-list li,
+.site-footer .footer-hours .hours-list li a,
+.site-footer .footer-hours .hours-list .day,
+.site-footer .footer-hours .hours-list .time,
+.site-footer .footer-hours .hours-list .time.closed {
+  color: var(--background-color) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
