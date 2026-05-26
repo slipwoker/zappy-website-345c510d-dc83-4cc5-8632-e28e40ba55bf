@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://be-basic.zappy5.app
+https://bebasic.co.il
 תלבושות בית ספר לילדים, ביגוד ספורטיבי לנשים ואופנה לנערות — הכל במקום אחד. BE BASIC בקניון באר יעקב מציעה איכות ללא פשרות לכל המשפחה.
 
 ### הדפסה מותאמת אישית
-https://be-basic.zappy5.app/custom-printing
+https://bebasic.co.il/custom-printing
 הדפסה מותאמת אישית על ביגוד לתנועות נוער, עסקים ומוסדות חינוך — BE BASIC מספקת הדפסה על חולצות באיכות גבוהה עם שירות מהיר ומקצועי. הזמינו עכשיו!
 
 ### אודות ומיקום
-https://be-basic.zappy5.app/about-location
+https://bebasic.co.il/about-location
 BE BASIC ממוקמת בקניון באר יעקב ומתמחה בביגוד איכותי לנשים, גברים וילדים. גלו את הסיפור שלנו, הערכים שמניעים אותנו ואיך להגיע אלינו בקלות.
 
 ### צור קשר
-https://be-basic.zappy5.app/contact
+https://bebasic.co.il/contact
 יש לכם שאלות על הדפסה על חולצות לעסקים, תלבושות בית ספר או ביגוד ספורטיבי? צרו קשר עם BE BASIC עכשיו ונשמח לעזור לכם למצוא בדיוק מה שאתם צריכים.
 
 ### Products
-https://be-basic.zappy5.app/products
+https://bebasic.co.il/products
 המוצרים שלנו - BE BASIC
 
 ### Cart
-https://be-basic.zappy5.app/cart
+https://bebasic.co.il/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://be-basic.zappy5.app/checkout
+https://bebasic.co.il/checkout
 תשלום
 
 ### Login
-https://be-basic.zappy5.app/login
+https://bebasic.co.il/login
 התחברות לקוחות
 
 ### Account
-https://be-basic.zappy5.app/account
+https://bebasic.co.il/account
 החשבון שלי
 
 ### Order Success
-https://be-basic.zappy5.app/order-success
+https://bebasic.co.il/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://be-basic.zappy5.app/product/:slug
+https://bebasic.co.il/product/:slug
 פרטי המוצר - BE BASIC
 
 ### Category
-https://be-basic.zappy5.app/category/:slug
+https://bebasic.co.il/category/:slug
 מוצרים - BE BASIC
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://be-basic.zappy5.app/privacy
+https://bebasic.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://be-basic.zappy5.app/terms
+https://bebasic.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://be-basic.zappy5.app/accessibility
+https://bebasic.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,118 +75,118 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 13**
 
 ### קרופ כיווצים 
-https://be-basic.zappy5.app/product/krvp-kyvvtsym-8os7cb
+https://bebasic.co.il/product/krvp-kyvvtsym-8os7cb
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751761
 - Description: חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE
-- Image: https://be-basic.zappy5.app/assets/product-1779568874450-vjlen.webp
+- Image: https://bebasic.co.il/assets/product-1779568874450-vjlen.webp
 
 ### קרופ רוגבי גזור 
-https://be-basic.zappy5.app/product/krvp-rvgby-gzvr-ofrp7k
+https://bebasic.co.il/product/krvp-rvgby-gzvr-xqo2ll
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751402
 - Description: חולצת קרופ רוגבי בגזרה מהממת ובמבחר צבעים
-- Image: https://be-basic.zappy5.app/assets/product-1779567799778-t4d77m.webp
+- Image: https://bebasic.co.il/assets/product-1779567799778-t4d77m.webp
 
 ### חולצת קרופ רוגבי
-https://be-basic.zappy5.app/product/chvltst-krvp-rvgby-ml3fwl
+https://bebasic.co.il/product/chvltst-krvp-rvgby-ml3fwl
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751395
 - Description: חולצה בגזרת קרופ מגיעה במבחר צבעים ובגזרה מושלמת!
-- Image: https://be-basic.zappy5.app/assets/product-1779566956420-n4ogbm.webp
+- Image: https://bebasic.co.il/assets/product-1779566956420-n4ogbm.webp
 
 ### בייסיק ניקי שילוב צבעים
-https://be-basic.zappy5.app/product/byysyk-nyky-shylvb-tsbaym-klsufq
+https://bebasic.co.il/product/byysyk-nyky-shylvb-tsbaym-klsufq
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751768
 - Description: חולצת בייסיק צווארון ניקי שילוב 2 צבעים במבחר צבעים
-- Image: https://be-basic.zappy5.app/assets/product-1779565541350-o9wj6m.webp
+- Image: https://bebasic.co.il/assets/product-1779565541350-o9wj6m.webp
 
 ### בייסיק צווארון ניקי  
-https://be-basic.zappy5.app/product/byysyk-tsvvarvn-nyky-2olie9
+https://bebasic.co.il/product/byysyk-tsvvarvn-nyky-2olie9
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 750790
 - Description: חולצת בייסיק צווארון עגול במבחר צבעים מהממים ובגזרה מושלמת !
-- Image: https://be-basic.zappy5.app/assets/product-1779563882035-8eq2d.webp
+- Image: https://bebasic.co.il/assets/product-1779563882035-8eq2d.webp
 
 ### ניקי גזרת בטן שילוב צבעים
-https://be-basic.zappy5.app/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx
+https://bebasic.co.il/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751762
 - Description: חולצת צווארון ניקי בגזרת בטן מהממת במיוחד ובשילוב 2 צבעים מגיע במידות ONE SIZE
-- Image: https://be-basic.zappy5.app/assets/product-1779561879859-sjlkt9.webp
+- Image: https://bebasic.co.il/assets/product-1779561879859-sjlkt9.webp
 
 ### טריקו ניקי מנג'ט בשרוול 
-https://be-basic.zappy5.app/product/trykv-nyky-mngt-bshrvvl-opg2xm
+https://bebasic.co.il/product/trykv-nyky-mngt-bshrvvl-opg2xm
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751723
 - Description: חולצת טריקו מבד נעים במיוחד , צווארון עגול עם מנג'ט בשרוול מגיע במבחר צבעים לבחירה
-- Image: https://be-basic.zappy5.app/assets/product-1779555769608-nn3bm.webp
+- Image: https://bebasic.co.il/assets/product-1779555769608-nn3bm.webp
 
 ### טריקו וי מנג'ט בשרוול 
-https://be-basic.zappy5.app/product/trykv-vy-mngt-bshrvvl-3qw5i4
+https://bebasic.co.il/product/trykv-vy-mngt-bshrvvl-3qw5i4
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751723
 - Description: חולצת טריקו מבד נעים במיוחד , צווארון וי עם תפירת מנג'ט בשרוול מגיע במבחר צבעים לבחירה
-- Image: https://be-basic.zappy5.app/assets/product-1779482343766-2dlvlt.webp
+- Image: https://bebasic.co.il/assets/product-1779482343766-2dlvlt.webp
 
 ### וי בייסיק קלאסי
-https://be-basic.zappy5.app/product/vy-byysyk-klasy-dnwaui
+https://bebasic.co.il/product/vy-byysyk-klasy-dnwaui
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 750747
 - Description: חולצת טריקו בגזרת וי מהנמכרת ביותר לעונה מגיע במבחר צבעים לבחירה
-- Image: https://be-basic.zappy5.app/assets/product-1779480377182-d0u34.webp
+- Image: https://bebasic.co.il/assets/product-1779480377182-d0u34.webp
 
 ### חולצת וי גזרת בטן
-https://be-basic.zappy5.app/product/chvltst-vy-gzrt-btn-4tmy1q
+https://bebasic.co.il/product/chvltst-vy-gzrt-btn-4tmy1q
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751262
 - Description: חולצה טריקו צווארון וי בגזרת אורך בטן , באיכות מדהימה ובמבחר צבעים !
-- Image: https://be-basic.zappy5.app/assets/product-1779470797573-udjsp9.webp
+- Image: https://bebasic.co.il/assets/product-1779470797573-udjsp9.webp
 
 ### בייסיק וי אברסייז 
-https://be-basic.zappy5.app/product/byysyk-vy-abrsyyz-z6zw0l
+https://bebasic.co.il/product/byysyk-vy-abrsyyz-z6zw0l
 - Price: 50.00 USD (sale, was 65.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת בייסיק וי בגזר אברסייז מבד 100% כותנה מגיה במבחר צבעים מהממים לבחירה
-- Image: https://be-basic.zappy5.app/assets/product-1779354535506-x421w.webp
+- Image: https://bebasic.co.il/assets/product-1779354535506-x421w.webp
 
 ### חולצת ניקי מבד אינטרלוק 
-https://be-basic.zappy5.app/product/chvltst-nyky-mbd-ayntrlvk-f86msn
+https://bebasic.co.il/product/chvltst-nyky-mbd-ayntrlvk-f86msn
 - Price: 45.00 USD (sale, was 59.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת בייסיק איכותי מבד נעים במיוחד , צווארון ניקי מגיע במבחר צבעים לבחירה .
-- Image: https://be-basic.zappy5.app/assets/product-1779351236473-9jkas.webp
+- Image: https://bebasic.co.il/assets/product-1779351236473-9jkas.webp
 
 ### חולצת קרופ סרט בבטן
-https://be-basic.zappy5.app/product/chvltst-krvp-srt-bbtn-zq83g8
+https://bebasic.co.il/product/chvltst-krvp-srt-bbtn-zq83g8
 - Price: 45.00 USD (sale, was 59.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת קרופ רוגבי סרט בבטן מגיע במבחר צבעים מהממים ובגזרה מושלמת !
-- Image: https://be-basic.zappy5.app/assets/product-1779181524594-3r8cy.webp
+- Image: https://bebasic.co.il/assets/product-1779181524594-3r8cy.webp
 
 ---
 
@@ -212,8 +212,8 @@ Fashion & Apparel Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://be-basic.zappy5.app/sitemap.xml
-- Robots: https://be-basic.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://be-basic.zappy5.app/llms-full.txt
-- Products (JSON): https://be-basic.zappy5.app/products.json
-- Products (Google Merchant RSS): https://be-basic.zappy5.app/product-feed.xml
+- Sitemap (XML): https://bebasic.co.il/sitemap.xml
+- Robots: https://bebasic.co.il/robots.txt
+- Flattened page text (for LLMs): https://bebasic.co.il/llms-full.txt
+- Products (JSON): https://bebasic.co.il/products.json
+- Products (Google Merchant RSS): https://bebasic.co.il/product-feed.xml
