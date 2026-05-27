@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T14:50:09.651Z",
+  "generated_at": "2026-05-27T14:50:23.137Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 15,
@@ -111,7 +111,7 @@
     },
     {
       "id": "4320348f-b374-493f-b00f-24d4c3fa4ded",
-      "slug": "mkns-shrvk-gvmy-brgl-p10ver",
+      "slug": "mkns-shrvk-gvmy-brgl-b4yy8d",
       "name": "מכנס שרוך גומי ברגל ",
       "name_translations": {},
       "description": "",
@@ -119,7 +119,7 @@
       "sku": "77992",
       "brand": null,
       "price": 89,
-      "base_price": 88.97,
+      "base_price": 99,
       "sale_price": 89,
       "currency": "USD",
       "images": [
@@ -180,11 +180,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-p10ver",
+      "url": "https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-b4yy8d",
       "categories": [
         "מכנסי אופנה"
       ],
-      "updated_at": "2026-05-27T14:49:51.953Z"
+      "updated_at": "2026-05-27T14:50:13.788Z"
     },
     {
       "id": "8c013bbc-07ab-4dbd-9346-1d0ad5422b09",
