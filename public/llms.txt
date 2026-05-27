@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 13**
+**Total active products: 14**
+
+### מכנס שרוך גומי ברגל 
+https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-tnfgxy
+- Price: 89.00 USD
+- Availability: In stock
+- Category: מכנסי אופנה
+- SKU: 77992
+- Description: מכנס שרוך עם גומי ברגל מבד נעים במיוחד במבחר צבעים מהממים .
+- Image: https://bebasic.co.il/assets/product-1779875426120-bt7dx5.webp
 
 ### קרופ כיווצים 
 https://bebasic.co.il/product/krvp-kyvvtsym-5vhn2a
