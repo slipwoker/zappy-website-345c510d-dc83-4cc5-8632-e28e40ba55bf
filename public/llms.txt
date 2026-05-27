@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 16**
+**Total active products: 17**
+
+### מכנס שילוב פס
+https://bebasic.co.il/product/mkns-shylvb-ps-zp6ppe
+- Price: 119.00 USD (sale, was 135.00 USD)
+- Availability: In stock
+- Category: אופנת בייסיק נשים 
+- SKU: 79127
+- Description: מכנס בשילוב פס , בגזרה מושלמת על הגוף. במבחר צבעים מהמם במיוחד !
+- Image: https://bebasic.co.il/assets/product-1779912086971-477564.webp
 
 ### מכנס משבצות 
 https://bebasic.co.il/product/mkns-mshbtsvt-yg2fkw
