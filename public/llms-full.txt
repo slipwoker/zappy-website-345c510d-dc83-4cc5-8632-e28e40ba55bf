@@ -4713,7 +4713,7 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### מכנס שילוב פס
-URL: https://bebasic.co.il/product/mkns-shylvb-ps-zp6ppe
+URL: https://bebasic.co.il/product/mkns-shylvb-ps-hu8n70
 Price: 119.00 USD (sale, was 135.00 USD)
 Availability: In stock
 SKU: 79127

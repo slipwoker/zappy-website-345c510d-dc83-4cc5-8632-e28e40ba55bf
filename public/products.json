@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T20:15:00.060Z",
+  "generated_at": "2026-05-27T20:21:31.729Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 17,
   "products": [
     {
       "id": "7d83a752-2e50-4c40-b27a-28cf66a2b070",
-      "slug": "mkns-shylvb-ps-zp6ppe",
+      "slug": "mkns-shylvb-ps-hu8n70",
       "name": "מכנס שילוב פס",
       "name_translations": {},
       "description": "",
@@ -19,15 +19,16 @@
       "sale_price": 119,
       "currency": "USD",
       "images": [
+        "https://bebasic.co.il/assets/product-1779912169150-llsck.webp",
         "https://bebasic.co.il/assets/product-1779912086971-477564.webp",
         "https://bebasic.co.il/assets/product-1779912096350-81na9l.webp",
         "https://bebasic.co.il/assets/product-1779912104427-bm2s2w.webp",
         "https://bebasic.co.il/assets/product-1779912112743-w2003.webp",
         "https://bebasic.co.il/assets/product-1779912120356-drq3uw.webp",
         "https://bebasic.co.il/assets/product-1779912128325-bzqwh.webp",
+        "https://bebasic.co.il/assets/product-1779912252200-unnrdq.webp",
         "https://bebasic.co.il/assets/product-1779912136653-nhw75j.webp",
         "https://bebasic.co.il/assets/product-1779912160749-kv2o3sm.webp",
-        "https://bebasic.co.il/assets/product-1779912169150-llsck.webp",
         "https://bebasic.co.il/assets/product-1779912176850-jvgzvr.webp",
         "https://bebasic.co.il/assets/product-1779912184119-jz8fh.webp",
         "https://bebasic.co.il/assets/product-1779912192694-k3v82q.webp",
@@ -37,7 +38,6 @@
         "https://bebasic.co.il/assets/product-1779912226862-tpnvuvg.webp",
         "https://bebasic.co.il/assets/product-1779912235114-wrojrn.webp",
         "https://bebasic.co.il/assets/product-1779912243939-gurh5r.webp",
-        "https://bebasic.co.il/assets/product-1779912252200-unnrdq.webp",
         "https://bebasic.co.il/assets/product-1779912288012-k9ll7.webp",
         "https://bebasic.co.il/assets/product-1779912296696-28ggp.webp",
         "https://bebasic.co.il/assets/product-1779912305239-42b45i.webp",
@@ -59,11 +59,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/mkns-shylvb-ps-zp6ppe",
+      "url": "https://bebasic.co.il/product/mkns-shylvb-ps-hu8n70",
       "categories": [
         "אופנת בייסיק נשים "
       ],
-      "updated_at": "2026-05-27T20:14:28.639Z"
+      "updated_at": "2026-05-27T20:21:00.637Z"
     },
     {
       "id": "e871b88e-6ae7-41db-9550-355a60a141ec",
