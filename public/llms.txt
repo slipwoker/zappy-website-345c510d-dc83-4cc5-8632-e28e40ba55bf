@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 14**
+**Total active products: 15**
+
+### מכנס שרוך רחב ברגל 
+https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-jh2vy5
+- Price: 89.00 USD
+- Availability: In stock
+- Category: מכנסי אופנה
+- SKU: 77992
+- Description: מכנס בשילוב שרוך רחב ברגל מבד נעים במיוחד ובמבחר צבעים .
+- Image: https://bebasic.co.il/assets/product-1779877688751-t4m0cc.webp
 
 ### מכנס שרוך גומי ברגל 
 https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-tnfgxy
