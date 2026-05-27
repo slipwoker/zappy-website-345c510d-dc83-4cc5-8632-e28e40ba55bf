@@ -4713,7 +4713,7 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### קרופ כיווצים 
-URL: https://bebasic.co.il/product/krvp-kyvvtsym-8os7cb
+URL: https://bebasic.co.il/product/krvp-kyvvtsym-5vhn2a
 Price: 45.00 USD (sale, was 55.00 USD)
 Availability: In stock
 SKU: 751761

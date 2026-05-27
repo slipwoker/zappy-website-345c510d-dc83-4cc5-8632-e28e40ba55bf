@@ -75,13 +75,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 13**
 
 ### קרופ כיווצים 
-https://bebasic.co.il/product/krvp-kyvvtsym-8os7cb
+https://bebasic.co.il/product/krvp-kyvvtsym-5vhn2a
 - Price: 45.00 USD (sale, was 55.00 USD)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751761
 - Description: חולצת קרופ כיווצים למטה מגיע במידות ONE SIZE
-- Image: https://bebasic.co.il/assets/product-1779568874450-vjlen.webp
+- Image: https://bebasic.co.il/assets/product-1779569064985-y2ywpm.webp
 
 ### קרופ רוגבי גזור 
 https://bebasic.co.il/product/krvp-rvgby-gzvr-xqo2ll
