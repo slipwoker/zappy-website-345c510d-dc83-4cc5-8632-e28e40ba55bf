@@ -4713,9 +4713,9 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### מכנס משבצות 
-URL: https://bebasic.co.il/product/mkns-mshbtsvt-hlsoni
+URL: https://bebasic.co.il/product/mkns-mshbtsvt-yg2fkw
 Price: 109.00 USD (sale, was 129.00 USD)
-Availability: Out of stock
+Availability: In stock
 SKU: 79122
 
 ---

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T16:18:04.961Z",
+  "generated_at": "2026-05-27T16:23:18.994Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 16,
   "products": [
     {
       "id": "e871b88e-6ae7-41db-9550-355a60a141ec",
-      "slug": "mkns-mshbtsvt-hlsoni",
+      "slug": "mkns-mshbtsvt-yg2fkw",
       "name": "מכנס משבצות ",
       "name_translations": {},
       "description": "",
@@ -50,13 +50,13 @@
         "https://bebasic.co.il/assets/product-1779895166873-d8cmzi.webp",
         "https://bebasic.co.il/assets/product-1779895174672-t5w2dg.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://bebasic.co.il/product/mkns-mshbtsvt-hlsoni",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://bebasic.co.il/product/mkns-mshbtsvt-yg2fkw",
       "categories": [
         "מכנסי אופנה"
       ],
-      "updated_at": "2026-05-27T16:17:33.707Z"
+      "updated_at": "2026-05-27T16:22:47.559Z"
     },
     {
       "id": "593b0346-b113-43b3-a252-aa1e266b8d4f",
