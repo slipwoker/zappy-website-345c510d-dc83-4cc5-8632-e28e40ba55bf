@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T15:23:46.472Z",
+  "generated_at": "2026-05-27T15:25:01.121Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 16,
   "products": [
     {
       "id": "e871b88e-6ae7-41db-9550-355a60a141ec",
-      "slug": "mkns-mshbtsvt-5mq1pc",
+      "slug": "mkns-mshbtsvt-wjtov1",
       "name": "מכנס משבצות ",
       "name_translations": {},
       "description": "",
@@ -19,8 +19,8 @@
       "sale_price": 109,
       "currency": "USD",
       "images": [
-        "https://bebasic.co.il/assets/product-1779894864604-w05hls.webp",
         "https://bebasic.co.il/assets/product-1779894873182-ezypw.webp",
+        "https://bebasic.co.il/assets/product-1779894864604-w05hls.webp",
         "https://bebasic.co.il/assets/product-1779894881370-v8uh2.webp",
         "https://bebasic.co.il/assets/product-1779894889981-lvzwj.webp",
         "https://bebasic.co.il/assets/product-1779894898272-8wgphd.webp",
@@ -52,11 +52,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/mkns-mshbtsvt-5mq1pc",
+      "url": "https://bebasic.co.il/product/mkns-mshbtsvt-wjtov1",
       "categories": [
         "מכנסי אופנה"
       ],
-      "updated_at": "2026-05-27T15:23:15.332Z"
+      "updated_at": "2026-05-27T15:24:29.981Z"
     },
     {
       "id": "593b0346-b113-43b3-a252-aa1e266b8d4f",

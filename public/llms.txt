@@ -75,13 +75,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 16**
 
 ### מכנס משבצות 
-https://bebasic.co.il/product/mkns-mshbtsvt-5mq1pc
+https://bebasic.co.il/product/mkns-mshbtsvt-wjtov1
 - Price: 109.00 USD (sale, was 129.00 USD)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 79122
 - Description: מכנס משבצות מהמם במיוחד מגיע במבחר צבעים לבחירה
-- Image: https://bebasic.co.il/assets/product-1779894864604-w05hls.webp
+- Image: https://bebasic.co.il/assets/product-1779894873182-ezypw.webp
 
 ### מכנס שרוך רחב ברגל 
 https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-od22aa
