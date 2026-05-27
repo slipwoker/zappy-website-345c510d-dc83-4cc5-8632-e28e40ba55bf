@@ -4713,8 +4713,8 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### מכנס שרוך רחב ברגל 
-URL: https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-jh2vy5
-Price: 89.00 USD
+URL: https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-rue7tq
+Price: 89.00 USD (sale, was 99.00 USD)
 Availability: In stock
 SKU: 77992
 

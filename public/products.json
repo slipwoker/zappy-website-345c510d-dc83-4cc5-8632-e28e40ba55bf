@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T14:50:23.137Z",
+  "generated_at": "2026-05-27T14:50:44.755Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 15,
   "products": [
     {
       "id": "593b0346-b113-43b3-a252-aa1e266b8d4f",
-      "slug": "mkns-shrvk-rchb-brgl-jh2vy5",
+      "slug": "mkns-shrvk-rchb-brgl-rue7tq",
       "name": "מכנס שרוך רחב ברגל ",
       "name_translations": {},
       "description": "",
@@ -15,7 +15,7 @@
       "sku": "77992",
       "brand": null,
       "price": 89,
-      "base_price": 0,
+      "base_price": 99,
       "sale_price": 89,
       "currency": "USD",
       "images": [
@@ -103,11 +103,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-jh2vy5",
+      "url": "https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-rue7tq",
       "categories": [
         "מכנסי אופנה"
       ],
-      "updated_at": "2026-05-27T10:59:09.669Z"
+      "updated_at": "2026-05-27T14:50:36.535Z"
     },
     {
       "id": "4320348f-b374-493f-b00f-24d4c3fa4ded",
