@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 20**
+**Total active products: 21**
+
+### מכנס משבצות שילוב 
+https://bebasic.co.il/product/mkns-mshbtsvt-shylvb-8v6s4m
+- Price: 119.00 USD (sale, was 135.00 USD)
+- Availability: In stock
+- Category: מכנסי אופנה
+- SKU: 79138
+- Description: מכנס משבצות מבד נעים ונוח במיוחד עם גומי במותן וברגל במבחר צבעים מגיע במידות ONE SIZE
+- Image: https://bebasic.co.il/assets/product-1779972754745-8pvm0k.webp
 
 ### דגם מאיה 
 https://bebasic.co.il/product/dgm-mayh-wn12rm
