@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 19**
+**Total active products: 20**
+
+### דגם מאיה 
+https://bebasic.co.il/product/dgm-mayh-ztlg3c
+- Price: 40.00 USD (sale, was 45.00 USD)
+- Availability: In stock
+- Category: חולצות אופנה לנערות
+- SKU: 63007-1
+- Description: חולצת וי אורך מותן מבד נעים ובגזרה מהממת על הגוף מגיע במבחר צבעים ובמידת ONE SIZE
+- Image: https://bebasic.co.il/assets/product-1779963976553-szuwfh.webp
 
 ### דגם אגם
 https://bebasic.co.il/product/dgm-agm-kqw3y9
