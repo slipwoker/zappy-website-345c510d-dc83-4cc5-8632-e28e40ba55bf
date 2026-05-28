@@ -4713,7 +4713,7 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### דגם מאיה 
-URL: https://bebasic.co.il/product/dgm-mayh-ztlg3c
+URL: https://bebasic.co.il/product/dgm-mayh-03yt25
 Price: 40.00 USD (sale, was 45.00 USD)
 Availability: In stock
 SKU: 63007-1
