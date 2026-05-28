@@ -4713,7 +4713,7 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### דגם נועה 
-URL: https://bebasic.co.il/product/dgm-nvah-5xs4de
+URL: https://bebasic.co.il/product/dgm-nvah-v1akue
 Price: 40.00 USD (sale, was 45.00 USD)
 Availability: In stock
 SKU: 6130-1
