@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 17**
+**Total active products: 18**
+
+### דגם נועה 
+https://bebasic.co.il/product/dgm-nvah-5xs4de
+- Price: 40.00 USD (sale, was 45.00 USD)
+- Availability: In stock
+- Category: תלבושת בית ספר
+- SKU: 6130-1
+- Description: חולצה מחשוף מרובע מבד כפול מגיע במבחר צבעים אורך מותן
+- Image: https://bebasic.co.il/assets/product-1779956619724-feebui.webp
 
 ### מכנס שילוב פס
 https://bebasic.co.il/product/mkns-shylvb-ps-50eg9s

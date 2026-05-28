@@ -1,10 +1,39 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:21:03.024Z",
+  "generated_at": "2026-05-28T08:24:48.453Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
-  "count": 17,
+  "count": 18,
   "products": [
+    {
+      "id": "75f50bbf-e541-4a5e-b4fd-ea2289a953dd",
+      "slug": "dgm-nvah-5xs4de",
+      "name": "דגם נועה ",
+      "name_translations": {},
+      "description": "<p>*ניתן להדפסת סמל ביה\"ס </p>",
+      "short_description": "חולצה מחשוף מרובע מבד כפול \nמגיע במבחר צבעים \nאורך מותן ",
+      "sku": "6130-1",
+      "brand": null,
+      "price": 40,
+      "base_price": 45,
+      "sale_price": 40,
+      "currency": "USD",
+      "images": [
+        "https://bebasic.co.il/assets/product-1779956619724-feebui.webp",
+        "https://bebasic.co.il/assets/product-1779956591047-pzode.webp",
+        "https://bebasic.co.il/assets/product-1779956598991-85g44.webp",
+        "https://bebasic.co.il/assets/product-1779956606047-g7xy0t.webp",
+        "https://bebasic.co.il/assets/product-1779956612903-ugsan.webp",
+        "https://bebasic.co.il/assets/product-1779956628020-x823fs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://bebasic.co.il/product/dgm-nvah-5xs4de",
+      "categories": [
+        "תלבושת בית ספר"
+      ],
+      "updated_at": "2026-05-28T08:24:38.386Z"
+    },
     {
       "id": "7d83a752-2e50-4c40-b27a-28cf66a2b070",
       "slug": "mkns-shylvb-ps-50eg9s",
