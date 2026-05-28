@@ -4712,6 +4712,16 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 
 ## Product Catalog
 
+### דגם אגם
+URL: https://bebasic.co.il/product/dgm-agm-kqw3y9
+Price: 40.00 USD (sale, was 45.00 USD)
+Availability: In stock
+SKU: 6210-1
+
+ניתן להדפסת סמל ביה"ס
+
+---
+
 ### דגם נועה 
 URL: https://bebasic.co.il/product/dgm-nvah-hc9q6f
 Price: 40.00 USD (sale, was 45.00 USD)

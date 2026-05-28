@@ -1,10 +1,41 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:49:08.490Z",
+  "generated_at": "2026-05-28T09:32:19.805Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
-  "count": 18,
+  "count": 19,
   "products": [
+    {
+      "id": "9b4329bf-8903-4ebf-a414-b17dae5794b1",
+      "slug": "dgm-agm-kqw3y9",
+      "name": "דגם אגם",
+      "name_translations": {},
+      "description": "<p>ניתן להדפסת סמל ביה\"ס </p>",
+      "short_description": "חולצה בגזרת וי בד כפול\nאורך מותן בד נעים בגזרה מושלמת על הגוף \nבמבחר צבעים לבחירה\nמידות ONE SIZE ",
+      "sku": "6210-1",
+      "brand": null,
+      "price": 40,
+      "base_price": 45,
+      "sale_price": 40,
+      "currency": "USD",
+      "images": [
+        "https://bebasic.co.il/assets/product-1779960616965-3ctu9d.webp",
+        "https://bebasic.co.il/assets/product-1779960625744-g0nhwm.webp",
+        "https://bebasic.co.il/assets/product-1779960634328-zil437.webp",
+        "https://bebasic.co.il/assets/product-1779960642487-jk7r5r.webp",
+        "https://bebasic.co.il/assets/product-1779960650273-rjgmd.webp",
+        "https://bebasic.co.il/assets/product-1779960658068-n2zkb9.webp",
+        "https://bebasic.co.il/assets/product-1779960665033-0my64h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://bebasic.co.il/product/dgm-agm-kqw3y9",
+      "categories": [
+        "תלבושת בית ספר",
+        "חולצות אופנה לנערות"
+      ],
+      "updated_at": "2026-05-28T09:32:00.019Z"
+    },
     {
       "id": "75f50bbf-e541-4a5e-b4fd-ea2289a953dd",
       "slug": "dgm-nvah-hc9q6f",

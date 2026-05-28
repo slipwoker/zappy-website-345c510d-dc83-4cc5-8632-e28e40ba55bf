@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 18**
+**Total active products: 19**
+
+### דגם אגם
+https://bebasic.co.il/product/dgm-agm-kqw3y9
+- Price: 40.00 USD (sale, was 45.00 USD)
+- Availability: In stock
+- Category: תלבושת בית ספר
+- SKU: 6210-1
+- Description: חולצה בגזרת וי בד כפול אורך מותן בד נעים בגזרה מושלמת על הגוף במבחר צבעים לבחירה מידות ONE SIZE
+- Image: https://bebasic.co.il/assets/product-1779960616965-3ctu9d.webp
 
 ### דגם נועה 
 https://bebasic.co.il/product/dgm-nvah-hc9q6f
