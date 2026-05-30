@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 25**
+**Total active products: 26**
+
+### גופיית ריב תחרה
+https://bebasic.co.il/product/gvpyyt-ryb-tchrh-dwswr3
+- Price: 40.00 USD (sale, was 49.00 USD)
+- Availability: In stock
+- Category: אופנת בייסיק נשים 
+- SKU: 751583
+- Description: גופיית ריב בשילוב תחרה מגיע במבחר צבעים ובמידות XS-S , M-L
+- Image: https://bebasic.co.il/assets/product-1780135992374-x8uhx2.webp
 
 ### גופיית קולר
 https://bebasic.co.il/product/gvpyyt-kvlr-bejs19
