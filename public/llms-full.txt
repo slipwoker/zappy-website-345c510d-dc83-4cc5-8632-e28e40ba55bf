@@ -4712,6 +4712,14 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 
 ## Product Catalog
 
+### גופיית קולר
+URL: https://bebasic.co.il/product/gvpyyt-kvlr-ofi4zq
+Price: 33.00 USD (sale, was 39.00 USD)
+Availability: In stock
+SKU: 751735
+
+---
+
 ### גופיית סבא
 URL: https://bebasic.co.il/product/gvpyyt-sba-oohit8
 Price: 33.00 USD (sale, was 39.00 USD)
