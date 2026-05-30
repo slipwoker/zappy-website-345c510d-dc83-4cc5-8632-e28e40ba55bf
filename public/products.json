@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-30T10:22:16.090Z",
+  "generated_at": "2026-05-30T10:26:34.210Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
-  "count": 26,
+  "count": 27,
   "products": [
+    {
+      "id": "5cd9fa1b-cae5-470a-90cd-fe313eca6e02",
+      "slug": "gvpyyt-ryp-psym-ineb6p",
+      "name": "גופיית ריפ פסים",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "751763",
+      "brand": null,
+      "price": 33,
+      "base_price": 39,
+      "sale_price": 33,
+      "currency": "USD",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://bebasic.co.il/product/gvpyyt-ryp-psym-ineb6p",
+      "categories": [
+        "אופנת בייסיק נשים ",
+        "גופיות וטופים "
+      ],
+      "updated_at": "2026-05-30T10:26:02.941Z"
+    },
     {
       "id": "b4d87d51-6b09-427f-886d-e991c6ea3a75",
       "slug": "gvpyyt-ryb-tchrh-dwswr3",
