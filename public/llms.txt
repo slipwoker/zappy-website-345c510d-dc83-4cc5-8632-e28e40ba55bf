@@ -75,11 +75,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 27**
 
 ### גופיית ריפ פסים
-https://bebasic.co.il/product/gvpyyt-ryp-psym-ineb6p
+https://bebasic.co.il/product/gvpyyt-ryp-psym-6x1bop
 - Price: 33.00 USD (sale, was 39.00 USD)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751763
+- Image: https://bebasic.co.il/assets/product-1780136796134-em3twf.webp
 
 ### גופיית ריב תחרה
 https://bebasic.co.il/product/gvpyyt-ryb-tchrh-dwswr3
