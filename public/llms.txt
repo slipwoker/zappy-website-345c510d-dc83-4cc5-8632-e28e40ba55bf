@@ -75,13 +75,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 25**
 
 ### גופיית קולר
-https://bebasic.co.il/product/gvpyyt-kvlr-ofi4zq
+https://bebasic.co.il/product/gvpyyt-kvlr-v1c4tv
 - Price: 33.00 USD (sale, was 39.00 USD)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751735
 - Description: גופייה בגזרת קולר מהממת במיוחד מגיעה במבחר צבעים ובמידות XS-S , M-L
-- Image: https://bebasic.co.il/assets/product-1780133831215-fisu5.webp
+- Image: https://bebasic.co.il/assets/product-1780134882791-lp4t5g.webp
 
 ### גופיית סבא
 https://bebasic.co.il/product/gvpyyt-sba-oohit8
