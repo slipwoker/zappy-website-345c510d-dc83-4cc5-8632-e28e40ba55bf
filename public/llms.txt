@@ -75,9 +75,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 22**
 
 ### גופיית סרט דק
-https://bebasic.co.il/product/gvpyyt-srt-dk-w3yd8v
+https://bebasic.co.il/product/gvpyyt-srt-dk-rdv9hn
 - Price: 33.00 USD (sale, was 39.90 USD)
 - Availability: In stock
+- Category: גופיות וטופים 
 - SKU: 751461
 - Image: https://bebasic.co.il/assets/product-1780088123043-2iseba.webp
 
