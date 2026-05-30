@@ -4713,7 +4713,7 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 ## Product Catalog
 
 ### גופיית סבא
-URL: https://bebasic.co.il/product/gvpyyt-sba-tpujac
+URL: https://bebasic.co.il/product/gvpyyt-sba-oohit8
 Price: 33.00 USD (sale, was 39.00 USD)
 Availability: In stock
 SKU: 751218

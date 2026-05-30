@@ -75,11 +75,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 24**
 
 ### גופיית סבא
-https://bebasic.co.il/product/gvpyyt-sba-tpujac
+https://bebasic.co.il/product/gvpyyt-sba-oohit8
 - Price: 33.00 USD (sale, was 39.00 USD)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751218
+- Description: במבחר צבעים מהממים מגיע במידת ONE SIZE
 - Image: https://bebasic.co.il/assets/product-1780132763391-31rd1f.webp
 
 ### גופיית בוקסר
