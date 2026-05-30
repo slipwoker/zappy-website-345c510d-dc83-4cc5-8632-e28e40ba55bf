@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 22**
+**Total active products: 23**
+
+### גופיית בוקסר
+https://bebasic.co.il/product/gvpyyt-bvksr-blr9cu
+- Price: 33.00 USD (sale, was 39.00 USD)
+- Availability: In stock
+- Category: גופיות וטופים 
+- SKU: 750759
+- Image: https://bebasic.co.il/assets/product-1780126188090-c927el.webp
 
 ### גופיית סרט דק
 https://bebasic.co.il/product/gvpyyt-srt-dk-rdv9hn
