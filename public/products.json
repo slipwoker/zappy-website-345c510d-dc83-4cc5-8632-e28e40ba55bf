@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-31T10:49:40.708Z",
+  "generated_at": "2026-06-01T08:46:37.460Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 28,
@@ -68,7 +68,7 @@
     },
     {
       "id": "5cd9fa1b-cae5-470a-90cd-fe313eca6e02",
-      "slug": "gvpyyt-ryp-psym-6x1bop",
+      "slug": "gvpyyt-ryp-psym-wul4qo",
       "name": "גופיית ריפ פסים",
       "name_translations": {},
       "description": "",
@@ -116,11 +116,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/gvpyyt-ryp-psym-6x1bop",
+      "url": "https://bebasic.co.il/product/gvpyyt-ryp-psym-wul4qo",
       "categories": [
-        "אופנת בייסיק נשים "
+        "אופנת בייסיק נשים ",
+        "גופיות וטופים "
       ],
-      "updated_at": "2026-05-30T16:33:45.218Z"
+      "updated_at": "2026-06-01T08:46:06.504Z"
     },
     {
       "id": "b4d87d51-6b09-427f-886d-e991c6ea3a75",
