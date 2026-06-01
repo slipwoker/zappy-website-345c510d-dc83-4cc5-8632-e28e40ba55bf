@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 28**
+**Total active products: 29**
+
+### טופ דאבל 
+https://bebasic.co.il/product/tvp-dabl-wi1div
+- Price: 33.00 USD (sale, was 39.00 USD)
+- Availability: In stock
+- Category: אופנת בייסיק נשים 
+- SKU: 751688
+- Image: https://bebasic.co.il/assets/product-1780303842993-swxnkj.webp
 
 ### גופיה כתפיה דקה גב פתוח
 https://bebasic.co.il/product/gvpyh-ktpyh-dkh-gb-ptvch-1iiyln

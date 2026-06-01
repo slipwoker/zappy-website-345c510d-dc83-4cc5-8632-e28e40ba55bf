@@ -4853,6 +4853,14 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 
 ## Product Catalog
 
+### טופ דאבל 
+URL: https://bebasic.co.il/product/tvp-dabl-wi1div
+Price: 33.00 USD (sale, was 39.00 USD)
+Availability: In stock
+SKU: 751688
+
+---
+
 ### גופיה כתפיה דקה גב פתוח
 URL: https://bebasic.co.il/product/gvpyh-ktpyh-dkh-gb-ptvch-1iiyln
 Price: 33.00 USD (sale, was 39.00 USD)
