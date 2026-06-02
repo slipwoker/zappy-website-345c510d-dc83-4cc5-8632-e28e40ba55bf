@@ -255,6 +255,44 @@
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+    <style id="zappy-announcement-bar-styles">
+    /* Announcement Bar Styles */
+    .zappy-announcement-bar {
+      background-color: #000000 !important;
+      color: #ffffff !important;
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      width: 100% !important;
+      text-align: center !important;
+      padding: 10px 20px !important;
+      font-size: 14px !important;
+      font-weight: 500 !important;
+      line-height: 1.4 !important;
+      box-sizing: border-box !important;
+      z-index: 1001 !important;
+      min-height: 40px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+    }
+    .zappy-announcement-bar .zappy-announcement-message {
+      position: absolute !important;
+      opacity: 0 !important;
+      transition: opacity 0.5s ease-in-out !important;
+      width: 100% !important;
+      left: 0 !important;
+      right: 0 !important;
+      padding: 0 20px !important;
+      box-sizing: border-box !important;
+    }
+    .zappy-announcement-bar .zappy-announcement-message.active {
+      opacity: 1 !important;
+    }
+    </style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -346,6 +384,10 @@
 </head>
 <body>
 
+<div class="zappy-announcement-bar">
+      <span class="zappy-announcement-message active">3 יח ב 100 ש&quot;ח בלבד !</span>
+    </div>
+
   <script>
     window.ZAPPY_WEBSITE_ID = "345c510d-dc83-4cc5-8632-e28e40ba55bf";
     // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
@@ -404,6 +446,9 @@
   
 
     
+  
+
+    
   <li><a href="/">בית</a></li><li><a href="/custom-printing">הדפסה מותאמת אישית</a></li><li><a href="/about-location">אודות ומיקום</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
@@ -430,7 +475,7 @@
 <section class="legal-page-content return-policy">
   <div class="container">
     <h1>מדיניות החזרת מוצרים</h1>
-    <p class="last-updated"><strong>עדכון אחרון:</strong> 1.6.2026</p>
+    <p class="last-updated"><strong>עדכון אחרון:</strong> 2.6.2026</p>
     
     <p>BE BASIC מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת מוצרים בהתאם לחוק הגנת הצרכן.</p>
 
@@ -487,6 +532,14 @@
     <a href="/checkout" class="cart-drawer-checkout">המשך לתשלום</a>
   </div>
 </aside>
+  
+<div class="zappy-qv-overlay" id="zappy-qv-overlay" hidden></div>
+<div class="zappy-qv-modal" id="zappy-qv-modal" role="dialog" aria-modal="true" aria-label="תצוגה מהירה" hidden>
+  <button type="button" class="zappy-qv-close" id="zappy-qv-close" aria-label="סגור">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+  </button>
+  <div class="zappy-qv-content" id="zappy-qv-content"></div>
+</div>
   <script>
   <!-- Search handling for e-commerce pages -->
   (function() {
