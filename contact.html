@@ -384,6 +384,7 @@
 
 <div class="zappy-announcement-bar">
       <span class="zappy-announcement-message active">3 יח ב 100 ש&quot;ח בלבד !</span>
+      <span class="zappy-announcement-message">3 יח ב 100 ש&quot;ח בלבד !</span>
     </div>
 
 
@@ -434,6 +435,9 @@
         <!-- Categories will be loaded dynamically -->
       </ul>
     </li>
+  
+
+    
   
 
     
@@ -1226,6 +1230,17 @@
   </button>
   <div class="zappy-qv-content" id="zappy-qv-content"></div>
 </div>
+<script>
+(function() {
+  var messages = document.querySelectorAll('.zappy-announcement-message');
+  if (messages.length <= 1) return;
+  var current = 0;
+  setInterval(function() {
+    messages[current].classList.remove('active');
+    current = (current + 1) % messages.length;
+    messages[current].classList.add('active');
+  }, 4000);
+})();</script>
 
     <script src="/script.js"></script>
 

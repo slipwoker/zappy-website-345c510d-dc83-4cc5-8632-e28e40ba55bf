@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-02T14:52:19.873Z",
+  "generated_at": "2026-06-02T14:55:36.228Z",
   "base_url": "https://bebasic.co.il",
-  "currency": "USD",
+  "currency": "ILS",
   "count": 30,
   "products": [
     {
@@ -17,7 +17,7 @@
       "price": 40,
       "base_price": 45,
       "sale_price": 40,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780389771107-nbo4b.webp",
         "https://bebasic.co.il/assets/product-1780389609934-0dj5up.webp",
@@ -65,7 +65,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780303842993-swxnkj.webp",
         "https://bebasic.co.il/assets/product-1780303835756-pbnx23.webp",
@@ -130,7 +130,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780159953761-bs78eb.webp",
         "https://bebasic.co.il/assets/product-1780159945988-z40khl.webp",
@@ -191,7 +191,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780136796134-em3twf.webp",
         "https://bebasic.co.il/assets/product-1780136803808-ygfjy.webp",
@@ -248,7 +248,7 @@
       "price": 40,
       "base_price": 49,
       "sale_price": 40,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780135992374-x8uhx2.webp",
         "https://bebasic.co.il/assets/product-1780136000721-5noue.webp",
@@ -299,7 +299,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780134882791-lp4t5g.webp",
         "https://bebasic.co.il/assets/product-1780134890749-wc29wa.webp",
@@ -362,7 +362,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780132763391-31rd1f.webp",
         "https://bebasic.co.il/assets/product-1780132422105-jasvrn.webp",
@@ -425,7 +425,7 @@
       "price": 33,
       "base_price": 39,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780126188090-c927el.webp",
         "https://bebasic.co.il/assets/product-1780126197380-ms2oo9.webp",
@@ -496,7 +496,7 @@
       "price": 33,
       "base_price": 39.9,
       "sale_price": 33,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1780088123043-2iseba.webp",
         "https://bebasic.co.il/assets/product-1780088131003-mtw289.webp",
@@ -559,7 +559,7 @@
       "price": 119,
       "base_price": 135,
       "sale_price": 119,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779972754745-8pvm0k.webp",
         "https://bebasic.co.il/assets/product-1779972504711-gvesg.webp",
@@ -617,7 +617,7 @@
       "price": 40,
       "base_price": 45,
       "sale_price": 40,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779963976553-szuwfh.webp",
         "https://bebasic.co.il/assets/product-1779963988403-cyw1rt.webp",
@@ -648,7 +648,7 @@
       "price": 40,
       "base_price": 45,
       "sale_price": 40,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779960616965-3ctu9d.webp",
         "https://bebasic.co.il/assets/product-1779960625744-g0nhwm.webp",
@@ -679,7 +679,7 @@
       "price": 40,
       "base_price": 45,
       "sale_price": 40,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779956619724-feebui.webp",
         "https://bebasic.co.il/assets/product-1779956591047-pzode.webp",
@@ -708,7 +708,7 @@
       "price": 119,
       "base_price": 135,
       "sale_price": 119,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779912169150-llsck.webp",
         "https://bebasic.co.il/assets/product-1779912086971-477564.webp",
@@ -768,7 +768,7 @@
       "price": 109,
       "base_price": 129,
       "sale_price": 109,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779894873182-ezypw.webp",
         "https://bebasic.co.il/assets/product-1779894864604-w05hls.webp",
@@ -821,7 +821,7 @@
       "price": 89,
       "base_price": 99,
       "sale_price": 89,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779877688751-t4m0cc.webp",
         "https://bebasic.co.il/assets/product-1779877696757-zfbmim.webp",
@@ -925,7 +925,7 @@
       "price": 89,
       "base_price": 99,
       "sale_price": 89,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779875426120-bt7dx5.webp",
         "https://bebasic.co.il/assets/product-1779875434030-zooub7.webp",
@@ -1002,7 +1002,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779569064985-y2ywpm.webp",
         "https://bebasic.co.il/assets/product-1779568874450-vjlen.webp",
@@ -1052,7 +1052,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779567799778-t4d77m.webp",
         "https://bebasic.co.il/assets/product-1779567806881-pndlma.webp",
@@ -1129,7 +1129,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779566956420-n4ogbm.webp",
         "https://bebasic.co.il/assets/product-1779566964180-rdcu45.webp",
@@ -1190,7 +1190,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779565541350-o9wj6m.webp",
         "https://bebasic.co.il/assets/product-1779565549833-f041x.webp",
@@ -1252,7 +1252,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779563882035-8eq2d.webp",
         "https://bebasic.co.il/assets/product-1779563009115-dn3mzv.webp",
@@ -1350,7 +1350,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779561879859-sjlkt9.webp",
         "https://bebasic.co.il/assets/product-1779561887421-i3un1d.webp",
@@ -1404,7 +1404,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779555769608-nn3bm.webp",
         "https://bebasic.co.il/assets/product-1779555362223-oaeqd.webp",
@@ -1454,7 +1454,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779482343766-2dlvlt.webp",
         "https://bebasic.co.il/assets/product-1779482351682-tl36rp.webp",
@@ -1505,7 +1505,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779480377182-d0u34.webp",
         "https://bebasic.co.il/assets/product-1779480387394-d22mdr.webp",
@@ -1568,7 +1568,7 @@
       "price": 45,
       "base_price": 55,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779470797573-udjsp9.webp",
         "https://bebasic.co.il/assets/product-1779470595267-w33at.webp",
@@ -1629,7 +1629,7 @@
       "price": 50,
       "base_price": 65,
       "sale_price": 50,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779354535506-x421w.webp",
         "https://bebasic.co.il/assets/product-1779354471104-7r3uwq.webp",
@@ -1687,7 +1687,7 @@
       "price": 45,
       "base_price": 59,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779351236473-9jkas.webp",
         "https://bebasic.co.il/assets/product-1779351244007-zcft7l.webp",
@@ -1749,7 +1749,7 @@
       "price": 45,
       "base_price": 59,
       "sale_price": 45,
-      "currency": "USD",
+      "currency": "ILS",
       "images": [
         "https://bebasic.co.il/assets/product-1779181524594-3r8cy.webp",
         "https://bebasic.co.il/assets/product-1779181478758-aths5.webp",

@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ### גופיה מבד פוינטל
 https://bebasic.co.il/product/gvpyh-mbd-pvyntl-qkr0ru
-- Price: 40.00 USD (sale, was 45.00 USD)
+- Price: 40.00 ILS (sale, was 45.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751782
@@ -84,7 +84,7 @@ https://bebasic.co.il/product/gvpyh-mbd-pvyntl-qkr0ru
 
 ### טופ דאבל 
 https://bebasic.co.il/product/tvp-dabl-wi1div
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751688
@@ -92,7 +92,7 @@ https://bebasic.co.il/product/tvp-dabl-wi1div
 
 ### גופיה כתפיה דקה גב פתוח
 https://bebasic.co.il/product/gvpyh-ktpyh-dkh-gb-ptvch-1iiyln
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751732
@@ -100,7 +100,7 @@ https://bebasic.co.il/product/gvpyh-ktpyh-dkh-gb-ptvch-1iiyln
 
 ### גופיית ריפ פסים
 https://bebasic.co.il/product/gvpyyt-ryp-psym-wul4qo
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751763
@@ -108,7 +108,7 @@ https://bebasic.co.il/product/gvpyyt-ryp-psym-wul4qo
 
 ### גופיית ריב תחרה
 https://bebasic.co.il/product/gvpyyt-ryb-tchrh-dwswr3
-- Price: 40.00 USD (sale, was 49.00 USD)
+- Price: 40.00 ILS (sale, was 49.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751583
@@ -117,7 +117,7 @@ https://bebasic.co.il/product/gvpyyt-ryb-tchrh-dwswr3
 
 ### גופיית קולר
 https://bebasic.co.il/product/gvpyyt-kvlr-bejs19
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751735
@@ -126,7 +126,7 @@ https://bebasic.co.il/product/gvpyyt-kvlr-bejs19
 
 ### גופיית סבא
 https://bebasic.co.il/product/gvpyyt-sba-oohit8
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: אופנת בייסיק נשים 
 - SKU: 751218
@@ -135,7 +135,7 @@ https://bebasic.co.il/product/gvpyyt-sba-oohit8
 
 ### גופיית בוקסר
 https://bebasic.co.il/product/gvpyyt-bvksr-blr9cu
-- Price: 33.00 USD (sale, was 39.00 USD)
+- Price: 33.00 ILS (sale, was 39.00 ILS)
 - Availability: In stock
 - Category: גופיות וטופים 
 - SKU: 750759
@@ -143,7 +143,7 @@ https://bebasic.co.il/product/gvpyyt-bvksr-blr9cu
 
 ### גופיית סרט דק
 https://bebasic.co.il/product/gvpyyt-srt-dk-rdv9hn
-- Price: 33.00 USD (sale, was 39.90 USD)
+- Price: 33.00 ILS (sale, was 39.90 ILS)
 - Availability: In stock
 - Category: גופיות וטופים 
 - SKU: 751461
@@ -151,7 +151,7 @@ https://bebasic.co.il/product/gvpyyt-srt-dk-rdv9hn
 
 ### מכנס משבצות שילוב 
 https://bebasic.co.il/product/mkns-mshbtsvt-shylvb-8v6s4m
-- Price: 119.00 USD (sale, was 135.00 USD)
+- Price: 119.00 ILS (sale, was 135.00 ILS)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 79138
@@ -160,7 +160,7 @@ https://bebasic.co.il/product/mkns-mshbtsvt-shylvb-8v6s4m
 
 ### דגם מאיה 
 https://bebasic.co.il/product/dgm-mayh-wn12rm
-- Price: 40.00 USD (sale, was 45.00 USD)
+- Price: 40.00 ILS (sale, was 45.00 ILS)
 - Availability: In stock
 - Category: חולצות אופנה לנערות
 - SKU: 63007-1
@@ -169,7 +169,7 @@ https://bebasic.co.il/product/dgm-mayh-wn12rm
 
 ### דגם אגם
 https://bebasic.co.il/product/dgm-agm-kqw3y9
-- Price: 40.00 USD (sale, was 45.00 USD)
+- Price: 40.00 ILS (sale, was 45.00 ILS)
 - Availability: In stock
 - Category: תלבושת בית ספר
 - SKU: 6210-1
@@ -178,7 +178,7 @@ https://bebasic.co.il/product/dgm-agm-kqw3y9
 
 ### דגם נועה 
 https://bebasic.co.il/product/dgm-nvah-hc9q6f
-- Price: 40.00 USD (sale, was 45.00 USD)
+- Price: 40.00 ILS (sale, was 45.00 ILS)
 - Availability: In stock
 - Category: תלבושת בית ספר
 - SKU: 6130-1
@@ -187,7 +187,7 @@ https://bebasic.co.il/product/dgm-nvah-hc9q6f
 
 ### מכנס שילוב פס
 https://bebasic.co.il/product/mkns-shylvb-ps-50eg9s
-- Price: 119.00 USD (sale, was 135.00 USD)
+- Price: 119.00 ILS (sale, was 135.00 ILS)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 79127
@@ -196,7 +196,7 @@ https://bebasic.co.il/product/mkns-shylvb-ps-50eg9s
 
 ### מכנס משבצות 
 https://bebasic.co.il/product/mkns-mshbtsvt-yg2fkw
-- Price: 109.00 USD (sale, was 129.00 USD)
+- Price: 109.00 ILS (sale, was 129.00 ILS)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 79122
@@ -205,7 +205,7 @@ https://bebasic.co.il/product/mkns-mshbtsvt-yg2fkw
 
 ### מכנס שרוך רחב ברגל 
 https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-od22aa
-- Price: 89.00 USD (sale, was 99.00 USD)
+- Price: 89.00 ILS (sale, was 99.00 ILS)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 77992
@@ -214,7 +214,7 @@ https://bebasic.co.il/product/mkns-shrvk-rchb-brgl-od22aa
 
 ### מכנס שרוך גומי ברגל 
 https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-b4yy8d
-- Price: 89.00 USD (sale, was 99.00 USD)
+- Price: 89.00 ILS (sale, was 99.00 ILS)
 - Availability: In stock
 - Category: מכנסי אופנה
 - SKU: 77992
@@ -223,7 +223,7 @@ https://bebasic.co.il/product/mkns-shrvk-gvmy-brgl-b4yy8d
 
 ### קרופ כיווצים 
 https://bebasic.co.il/product/krvp-kyvvtsym-5vhn2a
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751761
@@ -232,7 +232,7 @@ https://bebasic.co.il/product/krvp-kyvvtsym-5vhn2a
 
 ### קרופ רוגבי גזור 
 https://bebasic.co.il/product/krvp-rvgby-gzvr-xqo2ll
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751402
@@ -241,7 +241,7 @@ https://bebasic.co.il/product/krvp-rvgby-gzvr-xqo2ll
 
 ### חולצת קרופ רוגבי
 https://bebasic.co.il/product/chvltst-krvp-rvgby-ml3fwl
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751395
@@ -250,7 +250,7 @@ https://bebasic.co.il/product/chvltst-krvp-rvgby-ml3fwl
 
 ### בייסיק ניקי שילוב צבעים
 https://bebasic.co.il/product/byysyk-nyky-shylvb-tsbaym-klsufq
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751768
@@ -259,7 +259,7 @@ https://bebasic.co.il/product/byysyk-nyky-shylvb-tsbaym-klsufq
 
 ### בייסיק צווארון ניקי  
 https://bebasic.co.il/product/byysyk-tsvvarvn-nyky-2olie9
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 750790
@@ -268,7 +268,7 @@ https://bebasic.co.il/product/byysyk-tsvvarvn-nyky-2olie9
 
 ### ניקי גזרת בטן שילוב צבעים
 https://bebasic.co.il/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751762
@@ -277,7 +277,7 @@ https://bebasic.co.il/product/nyky-gzrt-btn-shylvb-tsbaym-ypo4cx
 
 ### טריקו ניקי מנג'ט בשרוול 
 https://bebasic.co.il/product/trykv-nyky-mngt-bshrvvl-opg2xm
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751723
@@ -286,7 +286,7 @@ https://bebasic.co.il/product/trykv-nyky-mngt-bshrvvl-opg2xm
 
 ### טריקו וי מנג'ט בשרוול 
 https://bebasic.co.il/product/trykv-vy-mngt-bshrvvl-3qw5i4
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751723
@@ -295,7 +295,7 @@ https://bebasic.co.il/product/trykv-vy-mngt-bshrvvl-3qw5i4
 
 ### וי בייסיק קלאסי
 https://bebasic.co.il/product/vy-byysyk-klasy-dnwaui
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 750747
@@ -304,7 +304,7 @@ https://bebasic.co.il/product/vy-byysyk-klasy-dnwaui
 
 ### חולצת וי גזרת בטן
 https://bebasic.co.il/product/chvltst-vy-gzrt-btn-4tmy1q
-- Price: 45.00 USD (sale, was 55.00 USD)
+- Price: 45.00 ILS (sale, was 55.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - SKU: 751262
@@ -313,7 +313,7 @@ https://bebasic.co.il/product/chvltst-vy-gzrt-btn-4tmy1q
 
 ### בייסיק וי אברסייז 
 https://bebasic.co.il/product/byysyk-vy-abrsyyz-z6zw0l
-- Price: 50.00 USD (sale, was 65.00 USD)
+- Price: 50.00 ILS (sale, was 65.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת בייסיק וי בגזר אברסייז מבד 100% כותנה מגיה במבחר צבעים מהממים לבחירה
@@ -321,7 +321,7 @@ https://bebasic.co.il/product/byysyk-vy-abrsyyz-z6zw0l
 
 ### חולצת ניקי מבד אינטרלוק 
 https://bebasic.co.il/product/chvltst-nyky-mbd-ayntrlvk-f86msn
-- Price: 45.00 USD (sale, was 59.00 USD)
+- Price: 45.00 ILS (sale, was 59.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת בייסיק איכותי מבד נעים במיוחד , צווארון ניקי מגיע במבחר צבעים לבחירה .
@@ -329,7 +329,7 @@ https://bebasic.co.il/product/chvltst-nyky-mbd-ayntrlvk-f86msn
 
 ### חולצת קרופ סרט בבטן
 https://bebasic.co.il/product/chvltst-krvp-srt-bbtn-zq83g8
-- Price: 45.00 USD (sale, was 59.00 USD)
+- Price: 45.00 ILS (sale, was 59.00 ILS)
 - Availability: In stock
 - Category: חולצות בייסיק
 - Description: חולצת קרופ רוגבי סרט בבטן מגיע במבחר צבעים מהממים ובגזרה מושלמת !
