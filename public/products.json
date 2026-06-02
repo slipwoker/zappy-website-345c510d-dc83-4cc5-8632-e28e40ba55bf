@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-02T08:46:11.887Z",
+  "generated_at": "2026-06-02T08:46:59.165Z",
   "base_url": "https://bebasic.co.il",
   "currency": "USD",
   "count": 30,
   "products": [
     {
       "id": "196089ef-e304-4674-b771-4ed9a45014ac",
-      "slug": "gvpyh-mbd-pvyntl-5mm4ds",
+      "slug": "gvpyh-mbd-pvyntl-qkr0ru",
       "name": "גופיה מבד פוינטל",
       "name_translations": {},
       "description": "",
@@ -19,6 +19,7 @@
       "sale_price": 40,
       "currency": "USD",
       "images": [
+        "https://bebasic.co.il/assets/product-1780389771107-nbo4b.webp",
         "https://bebasic.co.il/assets/product-1780389609934-0dj5up.webp",
         "https://bebasic.co.il/assets/product-1780389617289-f0k0z.webp",
         "https://bebasic.co.il/assets/product-1780389624275-qx4vij.webp",
@@ -36,7 +37,6 @@
         "https://bebasic.co.il/assets/product-1780389735537-gno2g.webp",
         "https://bebasic.co.il/assets/product-1780389743861-foppf5.webp",
         "https://bebasic.co.il/assets/product-1780389752471-zy7ahu.webp",
-        "https://bebasic.co.il/assets/product-1780389771107-nbo4b.webp",
         "https://bebasic.co.il/assets/product-1780389778691-a158mc.webp",
         "https://bebasic.co.il/assets/product-1780389787717-4cjfdl.webp",
         "https://bebasic.co.il/assets/product-1780389796119-nydad.webp",
@@ -47,12 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/gvpyh-mbd-pvyntl-5mm4ds",
+      "url": "https://bebasic.co.il/product/gvpyh-mbd-pvyntl-qkr0ru",
       "categories": [
-        "אופנת בייסיק נשים ",
-        "גופיות וטופים "
+        "אופנת בייסיק נשים "
       ],
-      "updated_at": "2026-06-02T08:45:40.775Z"
+      "updated_at": "2026-06-02T08:46:28.186Z"
     },
     {
       "id": "cb6a98fc-b01b-4c39-bb88-d4995b9c3aaf",
