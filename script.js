@@ -12146,9 +12146,14 @@ function fixContrast(){
 
     function _gv() { return _vProduct ? (_vProduct.variants||[]).filter(function(v){return v.is_active!==false}) : []; }
     function _gak() { var k=[],s={}; document.querySelectorAll('.variant-option').forEach(function(b){var a=b.getAttribute('data-attr');if(a&&!s[a]){s[a]=true;k.push(a)}}); return k; }
-    function _ce(sel) { return _gv().some(function(v){if(!v.attributes)return false;for(var k in sel){if(!sel.hasOwnProperty(k))continue;if(v.attributes[k]!==sel[k])return false}return true}); }
-    function _fm(sel) { return _gv().filter(function(v){if(!v.attributes)return false;for(var k in sel){if(!sel.hasOwnProperty(k))continue;if(v.attributes[k]!==sel[k])return false}return true}); }
+    // Wildcard match: a variant that doesn't define an attribute matches any value.
+    // Prefers the shared window.zappyVariantMatrix (same script.js) so the PDP,
+    // cards, and Quick View never diverge on strict-vs-wildcard semantics.
+    function _ma(v,sel){if(!v||!v.attributes)return false;for(var k in sel){if(!sel.hasOwnProperty(k))continue;if(v.attributes.hasOwnProperty(k)&&v.attributes[k]!==sel[k])return false}return true}
+    function _ce(sel) { if(window.zappyVariantMatrix)return window.zappyVariantMatrix.filterMatching(_gv(),sel).length>0; return _gv().some(function(v){return _ma(v,sel)}); }
+    function _fm(sel) { if(window.zappyVariantMatrix)return window.zappyVariantMatrix.filterMatching(_gv(),sel); return _gv().filter(function(v){return _ma(v,sel)}); }
     function _oos(v) {
+      if(window.zappyVariantMatrix)return window.zappyVariantMatrix.isUnavailable(v);
       if(!v)return true;
       if(v.stock_status==='out_of_stock')return true;
       var i=v.inventory_quantity!=null?v.inventory_quantity:v.inventoryQuantity;
@@ -12848,29 +12853,30 @@ function fixContrast(){
       return keys;
     }
     
+    // Wildcard semantics, shared with window.zappyVariantMatrix (baked storefront
+    // JS) when present; the inline fallback mirrors it so preview (which may not
+    // load the baked module) and publish never diverge on strict-vs-wildcard.
+    function _matchesAll(v, selections) {
+      if (!v || !v.attributes || v.is_active === false) return false;
+      for (var k in selections) {
+        if (!selections.hasOwnProperty(k)) continue;
+        if (v.attributes.hasOwnProperty(k) && v.attributes[k] !== selections[k]) return false;
+      }
+      return true;
+    }
+
     function _comboExists(selections) {
-      return _getVariants().some(function(v) {
-        if (!v.attributes) return false;
-        for (var k in selections) {
-          if (!selections.hasOwnProperty(k)) continue;
-          if (v.attributes[k] !== selections[k]) return false;
-        }
-        return true;
-      });
+      if (window.zappyVariantMatrix) return window.zappyVariantMatrix.filterMatching(_getVariants(), selections).length > 0;
+      return _getVariants().some(function(v) { return _matchesAll(v, selections); });
     }
     
     function _findMatching(selections) {
-      return _getVariants().filter(function(v) {
-        if (!v.attributes) return false;
-        for (var k in selections) {
-          if (!selections.hasOwnProperty(k)) continue;
-          if (v.attributes[k] !== selections[k]) return false;
-        }
-        return true;
-      });
+      if (window.zappyVariantMatrix) return window.zappyVariantMatrix.filterMatching(_getVariants(), selections);
+      return _getVariants().filter(function(v) { return _matchesAll(v, selections); });
     }
     
     function _isOOS(v) {
+      if (window.zappyVariantMatrix) return window.zappyVariantMatrix.isUnavailable(v);
       if (!v) return true;
       if (v.stock_status === 'out_of_stock') return true;
       var i = v.inventory_quantity != null ? v.inventory_quantity : v.inventoryQuantity;
