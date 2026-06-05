@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 30**
+**Total active products: 31**
+
+### חליפת פרנץ קשירה בצד 
+https://bebasic.co.il/product/chlypt-prnts-kshyrh-btsd-yiimiq
+- Price: 139.00 ILS (sale, was 159.00 ILS)
+- Availability: In stock
+- Category: חליפות אופנה
+- SKU: 78215
+- Image: https://bebasic.co.il/assets/product-1780686343958-462sqs.webp
 
 ### גופיה מבד פוינטל
 https://bebasic.co.il/product/gvpyh-mbd-pvyntl-qkr0ru
