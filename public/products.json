@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-05T20:43:36.110Z",
+  "generated_at": "2026-06-05T20:46:23.691Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
   "count": 31,
   "products": [
     {
       "id": "43e8008e-f50c-4f51-88e7-d5d8fd373855",
-      "slug": "chlypt-prnts-kshyrh-btsd-yiimiq",
+      "slug": "chlypt-prnts-kshyrh-btsd-2owikz",
       "name": "חליפת פרנץ קשירה בצד ",
       "name_translations": {},
       "description": "",
@@ -52,15 +52,21 @@
         "https://bebasic.co.il/assets/product-1780686849421-qubata.webp",
         "https://bebasic.co.il/assets/product-1780686865273-91gq9j.webp",
         "https://bebasic.co.il/assets/product-1780686877453-0p7ztf.webp",
-        "https://bebasic.co.il/assets/product-1780686896116-z7n1vq.webp"
+        "https://bebasic.co.il/assets/product-1780686896116-z7n1vq.webp",
+        "https://bebasic.co.il/assets/product-1780692285815-4803ak.webp",
+        "https://bebasic.co.il/assets/product-1780692294126-lr0pms.webp",
+        "https://bebasic.co.il/assets/product-1780692302500-ul78c.webp",
+        "https://bebasic.co.il/assets/product-1780692313901-utmrwe.webp",
+        "https://bebasic.co.il/assets/product-1780692322853-1li1tp.webp",
+        "https://bebasic.co.il/assets/product-1780692333634-wrrtp8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/chlypt-prnts-kshyrh-btsd-yiimiq",
+      "url": "https://bebasic.co.il/product/chlypt-prnts-kshyrh-btsd-2owikz",
       "categories": [
         "חליפות אופנה"
       ],
-      "updated_at": "2026-06-05T20:43:02.500Z"
+      "updated_at": "2026-06-05T20:45:52.062Z"
     },
     {
       "id": "196089ef-e304-4674-b771-4ed9a45014ac",
