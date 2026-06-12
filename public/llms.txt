@@ -72,7 +72,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 31**
+**Total active products: 32**
+
+### חליפת אוברסייז בארל
+https://bebasic.co.il/product/chlypt-avbrsyyz-barl-1a8jan
+- Price: 139.00 ILS (sale, was 159.00 ILS)
+- Availability: In stock
+- Category: אופנת בייסיק נשים 
+- SKU: 78413
+- Description: חליפה בגזרת אוברסייז במבחר צבעים
+- Image: https://bebasic.co.il/assets/product-1781302133707-6xc2d.webp
 
 ### חליפת פרנץ קשירה בצד 
 https://bebasic.co.il/product/chlypt-prnts-kshyrh-btsd-2owikz
