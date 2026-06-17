@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 32**
+**Total active products: 33**
+
+### חולצת טריקו בייסיק גבר 
+https://bebasic.co.il/product/chvltst-trykv-byysyk-gbr-z7uiae
+- Price: 25.00 ILS (sale, was 29.00 ILS)
+- Availability: In stock
+- Category: אופנת בייסיק גברים 
+- Description: חולצה בייסיק במידות גבר 100% כותנה סרוקה באיכות מעולה ובמבחר צבעים מגיע במידות S-3XL
+- Image: https://bebasic.co.il/assets/product-ai-fit-1781680918573-kcepw5.webp
 
 ### חליפת אוברסייז בארל
 https://bebasic.co.il/product/chlypt-avbrsyyz-barl-z2h3n1
