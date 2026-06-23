@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T12:31:09.447Z",
+  "generated_at": "2026-06-23T12:32:15.624Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
   "count": 33,
   "products": [
     {
       "id": "8fa756d2-ed96-4034-b222-e2bc9b3e9e01",
-      "slug": "chvltst-trykv-byysyk-gbr-z7uiae",
+      "slug": "chvltst-trykv-byysyk-gbr-30wquy",
       "name": "חולצת טריקו בייסיק גבר ",
       "name_translations": {},
-      "description": "<p>*מוצר זה ניתן להזמין סמל ביה\"ס/הדפסה אישית </p>",
+      "description": "<p>*מוצר זה ניתן להזמין סמל ביה\"ס/הדפסה אישית</p>",
       "short_description": "חולצה בייסיק במידות גבר\n 100% כותנה סרוקה \nבאיכות מעולה ובמבחר צבעים \nמגיע במידות S-3XL \n",
       "sku": null,
       "brand": null,
@@ -28,16 +28,17 @@
         "https://bebasic.co.il/assets/product-1781682481004-hyesh.webp",
         "https://bebasic.co.il/assets/product-1781682768170-f4nwqw.webp",
         "https://bebasic.co.il/assets/product-1781683010509-u069i.webp",
-        "https://bebasic.co.il/assets/product-1781684482281-m70zae.webp"
+        "https://bebasic.co.il/assets/product-1781684482281-m70zae.webp",
+        "https://bebasic.co.il/assets/product-1782217895105-lck32.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/chvltst-trykv-byysyk-gbr-z7uiae",
+      "url": "https://bebasic.co.il/product/chvltst-trykv-byysyk-gbr-30wquy",
       "categories": [
         "אופנת בייסיק גברים ",
         "חולצות "
       ],
-      "updated_at": "2026-06-23T12:30:38.413Z"
+      "updated_at": "2026-06-23T12:31:44.334Z"
     },
     {
       "id": "1c43a94b-3257-435e-9f88-616e9d731ccf",
