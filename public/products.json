@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T22:27:30.114Z",
+  "generated_at": "2026-06-27T16:19:06.739Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
   "count": 34,
   "products": [
     {
       "id": "3b6b7271-4a7d-42da-b122-b31b3a7a1522",
-      "slug": "chvltst-dryypyt-byysyk-gbr-ec4haj",
+      "slug": "chvltst-dryypyt-byysyk-gbr-a01sh2",
       "name": "חולצת דרייפיט בייסיק גבר",
       "name_translations": {},
       "description": "",
@@ -24,16 +24,21 @@
         "https://bebasic.co.il/assets/product-1782510650775-806o6f.webp",
         "https://bebasic.co.il/assets/product-1782510660639-1cz35.webp",
         "https://bebasic.co.il/assets/product-1782510671046-whwm1m.webp",
-        "https://bebasic.co.il/assets/product-ai-fit-1782512130099-h341f.webp",
-        "https://bebasic.co.il/assets/product-1782512053793-k28iua.webp",
-        "https://bebasic.co.il/assets/product-1782512084746-weakl.webp",
-        "https://bebasic.co.il/assets/product-1782512092851-2fv2f.webp"
+        "https://bebasic.co.il/assets/product-1782576454761-dueu2.webp",
+        "https://bebasic.co.il/assets/product-1782576463017-bhzglb.webp",
+        "https://bebasic.co.il/assets/product-1782576470924-xea4za.webp",
+        "https://bebasic.co.il/assets/product-1782576478418-c2m2d.webp",
+        "https://bebasic.co.il/assets/product-1782576485975-qzayi.webp",
+        "https://bebasic.co.il/assets/product-1782576494547-4zm1hr.webp",
+        "https://bebasic.co.il/assets/product-1782577011736-ayewng.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-ec4haj",
-      "categories": [],
-      "updated_at": "2026-06-26T22:26:58.183Z"
+      "url": "https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-a01sh2",
+      "categories": [
+        "אופנת בייסיק גברים "
+      ],
+      "updated_at": "2026-06-27T16:18:40.268Z"
     },
     {
       "id": "8fa756d2-ed96-4034-b222-e2bc9b3e9e01",
