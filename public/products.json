@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-27T16:46:06.654Z",
+  "generated_at": "2026-06-27T16:52:37.286Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
   "count": 34,
   "products": [
     {
       "id": "3b6b7271-4a7d-42da-b122-b31b3a7a1522",
-      "slug": "chvltst-dryypyt-byysyk-gbr-k5l2mq",
+      "slug": "chvltst-dryypyt-byysyk-gbr-2311dh",
       "name": "חולצת דרייפיט בייסיק גבר",
       "name_translations": {},
       "description": "<p>*מוצר זה ניתן להזמין סמל ביה\"ס/הדפסה אישית</p>",
@@ -19,11 +19,11 @@
       "sale_price": 25,
       "currency": "ILS",
       "images": [
+        "https://bebasic.co.il/assets/product-1782510671046-whwm1m.webp",
         "https://bebasic.co.il/assets/product-1782510680778-yhbo70h.webp",
         "https://bebasic.co.il/assets/product-1782510640732-eshhuq.webp",
         "https://bebasic.co.il/assets/product-1782510650775-806o6f.webp",
         "https://bebasic.co.il/assets/product-1782510660639-1cz35.webp",
-        "https://bebasic.co.il/assets/product-1782510671046-whwm1m.webp",
         "https://bebasic.co.il/assets/product-1782576454761-dueu2.webp",
         "https://bebasic.co.il/assets/product-1782576463017-bhzglb.webp",
         "https://bebasic.co.il/assets/product-1782576470924-xea4za.webp",
@@ -34,11 +34,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-k5l2mq",
+      "url": "https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-2311dh",
       "categories": [
         "אופנת בייסיק גברים "
       ],
-      "updated_at": "2026-06-27T16:45:35.154Z"
+      "updated_at": "2026-06-27T16:52:06.709Z"
     },
     {
       "id": "8fa756d2-ed96-4034-b222-e2bc9b3e9e01",
