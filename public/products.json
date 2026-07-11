@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-11T09:49:08.462Z",
+  "generated_at": "2026-07-11T16:03:52.075Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
   "count": 35,
   "products": [
     {
       "id": "749646bb-75dc-446c-be86-f6ec57c51fae",
-      "slug": "chvltst-avbrsyyz-dgm-prymyvm-p3i21y",
+      "slug": "chvltst-avbrsyyz-dgm-prymyvm-ubudlo",
       "name": "חולצת אוברסייז דגם פרימיום ",
       "name_translations": {},
       "description": "",
@@ -27,12 +27,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://bebasic.co.il/product/chvltst-avbrsyyz-dgm-prymyvm-p3i21y",
+      "url": "https://bebasic.co.il/product/chvltst-avbrsyyz-dgm-prymyvm-ubudlo",
       "categories": [
         "אופנת בייסיק גברים ",
         "חולצות בייסיק גבר"
       ],
-      "updated_at": "2026-07-11T09:48:36.762Z"
+      "updated_at": "2026-07-11T16:03:20.530Z"
     },
     {
       "id": "3b6b7271-4a7d-42da-b122-b31b3a7a1522",
