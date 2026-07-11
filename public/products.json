@@ -1,10 +1,39 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-11T09:11:27.175Z",
+  "generated_at": "2026-07-11T09:46:24.583Z",
   "base_url": "https://bebasic.co.il",
   "currency": "ILS",
-  "count": 34,
+  "count": 35,
   "products": [
+    {
+      "id": "749646bb-75dc-446c-be86-f6ec57c51fae",
+      "slug": "chvltst-avbrsyyz-dgm-prymyvm-p3i21y",
+      "name": "חולצת אוברסייז דגם פרימיום ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חולצת אוברסייז איכותית במיוחד \nמגיע עם תפר מנג'ט רחב בשרוול \nובמבחר צבעים ",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://bebasic.co.il/assets/product-1783762799097-odfu7r.webp",
+        "https://bebasic.co.il/assets/product-1783762824033-6wi0g.webp",
+        "https://bebasic.co.il/assets/product-1783762846749-yg7ht7.webp",
+        "https://bebasic.co.il/assets/product-1783762872140-chsoqr.webp",
+        "https://bebasic.co.il/assets/product-1783762935617-b771e.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://bebasic.co.il/product/chvltst-avbrsyyz-dgm-prymyvm-p3i21y",
+      "categories": [
+        "אופנת בייסיק גברים ",
+        "חולצות בייסיק גבר"
+      ],
+      "updated_at": "2026-07-11T09:45:52.987Z"
+    },
     {
       "id": "3b6b7271-4a7d-42da-b122-b31b3a7a1522",
       "slug": "chvltst-dryypyt-byysyk-gbr-awja60",

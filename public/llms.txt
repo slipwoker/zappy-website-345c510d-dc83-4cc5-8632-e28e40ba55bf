@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 34**
+**Total active products: 35**
+
+### חולצת אוברסייז דגם פרימיום 
+https://bebasic.co.il/product/chvltst-avbrsyyz-dgm-prymyvm-p3i21y
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: אופנת בייסיק גברים 
+- Description: חולצת אוברסייז איכותית במיוחד מגיע עם תפר מנג'ט רחב בשרוול ובמבחר צבעים
+- Image: https://bebasic.co.il/assets/product-1783762799097-odfu7r.webp
 
 ### חולצת דרייפיט בייסיק גבר
 https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-awja60

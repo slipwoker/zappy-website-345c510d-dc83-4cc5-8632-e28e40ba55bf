@@ -5188,6 +5188,13 @@ BE BASIC מספקת Fashion & Apparel Retail דרך האתר. השירותים �
 
 ## Product Catalog
 
+### חולצת אוברסייז דגם פרימיום 
+URL: https://bebasic.co.il/product/chvltst-avbrsyyz-dgm-prymyvm-p3i21y
+Price: 69.00 ILS
+Availability: In stock
+
+---
+
 ### חולצת דרייפיט בייסיק גבר
 URL: https://bebasic.co.il/product/chvltst-dryypyt-byysyk-gbr-awja60
 Price: 29.00 ILS
